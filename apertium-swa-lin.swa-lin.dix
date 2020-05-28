@@ -95,13 +95,53 @@
     <sdef n="compound-R"      c="May be the right-side of a compound, or a full word"/>
   </sdefs>
 
-   <section id="main" type="standard">
-      <!-- Define entries within <e> here. -->
-      <e><p><l>house<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
+  <section id="main" type="standard">
+    <!-- Pronouns -->
 
-      <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
-      <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
-   </section>
+    <!-- Nouns -->
+    <e><p><l>mvulana<s n="n"/></l><r>mobáli<s n="n"/></r></p></e>
+    <e><p><l>dog<s n="n"/></l><r>mbwá<s n="n"/><s n="cl1a"/></r></p></e>
+    <e><p><l>jibu<s n="n"/></l><r>eyano<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>nyumba<s n="n"/></l><r>ndáko<s n="n"/><s n="cl1a"/></r></p></e>
+    <e><p><l>maji<s n="n"/><s n="sg"/></l><r>máí<s n="n"/><s n="cl5"/><s n="pl"/></r></p></e>
+    <e><p><l>mkono<s n="n"/></l><r>lobɔ́kɔ<s n="n"/><s n="cl11"/></r></p></e>
+    <e><p><l>kichwa<s n="n"/></l><r>motu<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>ndege<s n="n"/></l><r>ndɛkɛ<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>mnyama<s n="n"/></l><r>nyama<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>bustani<s n="n"/></l><r>elanga<s n="n"/><s n="cl7"/></r></p></e>
+
+    <!-- Verbs -->
+    <e><p><l>kutafuta<s n="vblex"/></l><r>koluka<s n="vblex"/></r></p></e>
+    <e><p><l>kuona<s n="vblex"/></l><r>komɔ́na<s n="vblex"/></r></p></e>
+    <e><p><l>kujua<s n="vblex"/></l><r>koyéba<s n="vblex"/></r></p></e>
+    <e><p><l>kucheka<s n="vblex"/></l><r>kosɛka<s n="vblex"/></r></p></e>
+    <e><p><l>kuuliza<s n="vblex"/></l><r>kosɛ́nga<s n="vblex"/></r></p></e>
+    <e><p><l>kuweza<s n="vblex"/></l><r>kokoka<s n="vblex"/></r></p></e>
+    <e><p><l>kuongea<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
+    <e><p><l>kula<s n="vblex"/></l><r>kolia<s n="vblex"/></r></p></e>
+    <e><p><l>kunywa<s n="vblex"/></l><r>komɛla<s n="vblex"/></r></p></e>
+    <!-- Adverbs -->
+
+    <!-- Adjectives -->
+
+    <e><p><l>kidogo<s n="adj"/></l><r>mokɛ́<s n="adj"/><s n="adj"/></r></p></e>
+    <e><p><l>ndogo<s n="adj"/><s n="sint"/></l><r>mokɛ́<s n="adj"/></r></p></e>
+    <e><p><l>nyembamba<s n="adj"/><s n="sint"/></l><r>mokɛ́<s n="adj"/></r></p></e>
+    <e><p><l>fupi<s n="adj"/><s n="sint"/></l><r>mokúsé<s n="adj"/></r></p></e>
+    <e><p><l>ndefu<s n="adj"/><s n="sint"/></l><r>molaí<s n="adj"/></r></p></e>
+    <e><p><l>mrefu<s n="adj"/><s n="sint"/></l><r>molaí<s n="adj"/></r></p></e>   
+
+    <!-- Prepositions -->
+
+    <!-- Conjunctions -->
+
+
+    <!-- Connectives -->   
+
+    
+    <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+    <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
+  </section>
 </dictionary>
 
 <!--
