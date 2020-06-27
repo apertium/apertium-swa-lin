@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
    <!-- Define the alphabet below. -->
-  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
+  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèɛ́ễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
 
   <sdefs>
     <!-- Define symbol definitions within <sdef> here. -->
@@ -132,9 +132,9 @@
     <!-- Pronouns -->
 
     <!-- Nouns -->
+    <e><p><l>jibu<s n="n"/><s n="cl5"/></l><r>eyano<s n="n"/><s n="cl7"/></r></p></e>
     <e><p><l>mvulana<s n="n"/></l><r>mobáli<s n="n"/></r></p></e>
-    <e><p><l>dog<s n="n"/></l><r>mbwá<s n="n"/><s n="cl1a"/></r></p></e>
-    <e><p><l>jibu<s n="n"/></l><r>eyano<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>mbwa<s n="n"/><s n="cl1"/></l><r>mbwá<s n="n"/><s n="cl1a"/></r></p></e>
     <e><p><l>nyumba<s n="n"/></l><r>ndáko<s n="n"/><s n="cl1a"/></r></p></e>
     <e><p><l>maji<s n="n"/><s n="sg"/></l><r>máí<s n="n"/><s n="cl5"/><s n="pl"/></r></p></e>
     <e><p><l>mkono<s n="n"/></l><r>lobɔ́kɔ<s n="n"/><s n="cl11"/></r></p></e>
@@ -142,6 +142,274 @@
     <e><p><l>ndege<s n="n"/></l><r>ndɛkɛ<s n="n"/><s n="cl9"/></r></p></e>
     <e><p><l>mnyama<s n="n"/></l><r>nyama<s n="n"/><s n="cl9"/></r></p></e>
     <e><p><l>bustani<s n="n"/></l><r>elanga<s n="n"/><s n="cl7"/></r></p></e>
+
+        <e><p><l>mtu<s n="n"/><s n="cl1"/></l><r>mobóti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>mvulana<s n="n"/><s n="cl1"/></l><r>mobali<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>mgeni<s n="n"/><s n="cl1"/></l><r>mopaya<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>mjomba<s n="n"/><s n="cl1"/></l><r>nókó<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>mzungu<s n="n"/><s n="cl1"/></l><r>mondélé<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>mnyama<s n="n"/><s n="cl1"/></l><r>nyama<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>mama<s n="n"/><s n="cl1"/></l><r>mobóti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>dada<s n="n"/><s n="cl1"/></l><r>monyalí<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>rafiki<s n="n"/><s n="cl1"/></l><r>moníngá<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>mbwa<s n="n"/><s n="cl1"/></l><r>mbwá<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>paka<s n="n"/><s n="cl1"/></l><r>mumpɛ́<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>mti<s n="n"/><s n="cl3"/></l><r>mbíla<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>mdomo<s n="n"/><s n="cl3"/></l><r>monɔkɔ<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>mkono<s n="n"/><s n="cl3"/></l><r>litambála<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>moyo<s n="n"/><s n="cl3"/></l><r>motéma<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>mchezo<s n="n"/><s n="cl3"/></l><r>lisano<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>mwaka<s n="n"/><s n="cl3"/></l><r>mobú<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>ndege<s n="n"/><s n="cl3"/></l><r>ndɛkɛ<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>mchezo<s n="n"/><s n="cl3"/></l><r>lisano<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>mtume<s n="n"/><s n="cl3"/></l><r>ntoma<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>mgongo<s n="n"/><s n="cl3"/></l><r>mokongo<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>mtumba<s n="n"/><s n="cl3"/></l><r>ebale<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>mwanzi<s n="n"/><s n="cl3"/></l><r>linkɛké<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>mgomba<s n="n"/><s n="cl3"/></l><r>likémba<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>mgogoro<s n="n"/><s n="cl3"/></l><r>nganda<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>mkono<s n="n"/><s n="cl3"/></l><r>etápi<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>msyororo<s n="n"/><s n="cl3"/></l><r>mokulu<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>mzoga<s n="n"/><s n="cl3"/></l><r>ebembe<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>mchirizi<s n="n"/><s n="cl3"/></l><r>ezaleli<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>mfano<s n="n"/><s n="cl3"/></l><r>ndakisa<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>mguu<s n="n"/><s n="cl3"/></l><r>litámbí<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>mlango<s n="n"/><s n="cl3"/></l><r>wɛnzɛ<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>mwangaza<s n="n"/><s n="cl3"/></l><r>kíti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>mchochoro<s n="n"/><s n="cl3"/></l><r>likómbɔ́kɔ<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>mkungu<s n="n"/><s n="cl3"/></l><r>lidúsu<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>mdimu<s n="n"/><s n="cl3"/></l><r>limemya<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>mfuo<s n="n"/><s n="cl3"/></l><r>molɔngɔ́<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>mdomo<s n="n"/><s n="cl3"/></l><r>lipapú<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>mwujiza<s n="n"/><s n="cl3"/></l><r>likámwisi<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>mude\ wa\ mwezi<s n="n"/><s n="cl3"/></l><r>sánzá<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>milima<s n="n"/><s n="cl3"/></l><r>ngómbá<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>mchungwa<s n="n"/><s n="cl3"/></l><r>lilála<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>mlango<s n="n"/><s n="cl3"/></l><r>elékéla<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>mguu<s n="n"/><s n="cl3"/></l><r>likáká<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>msunobari<s n="n"/><s n="cl3"/></l><r>esɛngɔ<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>mmea<s n="n"/><s n="cl3"/></l><r>likémba<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>mfuko<s n="n"/><s n="cl3"/></l><r>libenga<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>mhimsli<s n="n"/><s n="cl3"/></l><r>profete<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>mtume<s n="n"/><s n="cl3"/></l><r>profete<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>mdeki<s n="n"/><s n="cl3"/></l><r>moswá<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>mfuo<s n="n"/><s n="cl3"/></l><r>séléká<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>mfuko<s n="n"/><s n="cl3"/></l><r>mofuku<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>mkato<s n="n"/><s n="cl3"/></l><r>mokapo<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>mkia<s n="n"/><s n="cl3"/></l><r>motóngi<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>mshipa<s n="n"/><s n="cl3"/></l><r>mosisa<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>mji<s n="n"/><s n="cl3"/></l><r>mbóka<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>mzabibu<s n="n"/><s n="cl3"/></l><r>monjímbilíkí<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>gari<s n="n"/><s n="cl5"/></l><r>mótuka<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>dirisha<s n="n"/><s n="cl5"/></l><r>lininisa<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>gazeti<s n="n"/><s n="cl5"/></l><r>zuluná<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>neno<s n="n"/><s n="cl5"/></l><r>elɔ́kɔ<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>jina<s n="n"/><s n="cl5"/></l><r>nkómbó<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>swali<s n="n"/><s n="cl5"/></l><r>motuna<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>jibu<s n="n"/><s n="cl5"/></l><r>eyano<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>umivu<s n="n"/><s n="cl5"/></l><r>motéyi<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>umiszo<s n="n"/><s n="cl5"/></l><r>motéyi<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>pato<s n="n"/><s n="cl5"/></l><r>bozwi<s n="n"/><s n="cl14"/></r></p></e>
+    <e><p><l>shauri<s n="n"/><s n="cl5"/></l><r>ntolí<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>onyo<s n="n"/><s n="cl5"/></l><r>ntolí<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>fanya<s n="n"/><s n="cl5"/></l><r>kíti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>fanaa<s n="n"/><s n="cl5"/></l><r>elambá<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>kusanyiko<s n="n"/><s n="cl5"/></l><r>likita<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>shoka<s n="n"/><s n="cl5"/></l><r>etimeli<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>mpira<s n="n"/><s n="cl5"/></l><r>balé<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>shindo<s n="n"/><s n="cl5"/></l><r>ebangá<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>fungu<s n="n"/><s n="cl5"/></l><r>mobɛ́ti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>kundi<s n="n"/><s n="cl5"/></l><r>mobɛ́ti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>pigo<s n="n"/><s n="cl5"/></l><r>mobɛ́ti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>shindo<s n="n"/><s n="cl5"/></l><r>mobɛ́ti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>pindi<s n="n"/><s n="cl5"/></l><r>ebende<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>shartt<s n="n"/><s n="cl5"/></l><r>afabɛ́<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>askofu<s n="n"/><s n="cl5"/></l><r>epískɔ́pɔ<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>chanua<s n="n"/><s n="cl5"/></l><r>mobɛ́ti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>fungo<s n="n"/><s n="cl5"/></l><r>bondeko<s n="n"/><s n="cl14"/></r></p></e>
+    <e><p><l>fupa<s n="n"/><s n="cl5"/></l><r>mokúwa<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>chupa<s n="n"/><s n="cl5"/></l><r>molangi<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>kofi<s n="n"/><s n="cl5"/></l><r>sanduku<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>chubuko<s n="n"/><s n="cl5"/></l><r>litútu<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>buyu<s n="n"/><s n="cl5"/></l><r>mobɛ́ti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>fundi<s n="n"/><s n="cl5"/></l><r>motóngi<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>bumba<s n="n"/><s n="cl5"/></l><r>ebimba<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>dau<s n="n"/><s n="cl5"/></l><r>bwátu<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>kasha<s n="n"/><s n="cl5"/></l><r>libóbó<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>choro<s n="n"/><s n="cl5"/></l><r>motéma<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>htafu<s n="n"/><s n="cl5"/></l><r>litáma<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>wingu<s n="n"/><s n="cl5"/></l><r>lipata<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>jumbe<s n="n"/><s n="cl5"/></l><r>monanga<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>kanisa<s n="n"/><s n="cl5"/></l><r>eklézia<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>agizo<s n="n"/><s n="cl5"/></l><r>motíndo<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>sheki<s n="n"/><s n="cl5"/></l><r>ekólo<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>apizo<s n="n"/><s n="cl5"/></l><r>botutu<s n="n"/><s n="cl14"/></r></p></e>
+    <e><p><l>jini<s n="n"/><s n="cl5"/></l><r>zábolo<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>shetant<s n="n"/><s n="cl5"/></l><r>zábolo<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>jina<s n="n"/><s n="cl5"/></l><r>nkómbó<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>derweshi<s n="n"/><s n="cl5"/></l><r>mobɛ́ti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>ugonjwa<s n="n"/><s n="cl5"/></l><r>bokɔnɔ<s n="n"/><s n="cl14"/></r></p></e>
+    <e><p><l>shaka<s n="n"/><s n="cl5"/></l><r>ntembe<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>data<s n="n"/><s n="cl5"/></l><r>lisbata<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>wumbi<s n="n"/><s n="cl5"/></l><r>lifúlu<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>sikio<s n="n"/><s n="cl5"/></l><r>mobú<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>kaa<s n="n"/><s n="cl5"/></l><r>mobɛ́ti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>kosa<s n="n"/><s n="cl5"/></l><r>nsómo<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>onyo<s n="n"/><s n="cl5"/></l><r>ndakisa<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>onde<s n="n"/><s n="cl5"/></l><r>lisalá<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>shamba<s n="n"/><s n="cl5"/></l><r>lisalá<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>pest<s n="n"/><s n="cl5"/></l><r>mosapi<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>nyasi<s n="n"/><s n="cl5"/></l><r>mobɛ́ti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>pindi<s n="n"/><s n="cl5"/></l><r>etálángu<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>jinyo<s n="n"/><s n="cl5"/></l><r>etálángu<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>guu<s n="n"/><s n="cl5"/></l><r>litámbí<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>tako<s n="n"/><s n="cl5"/></l><r>litámbí<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>panda<s n="n"/><s n="cl5"/></l><r>engasa<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>umbo<s n="n"/><s n="cl5"/></l><r>miko<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>zao<s n="n"/><s n="cl5"/></l><r>mbuma<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>shindano<s n="n"/><s n="cl5"/></l><r>lisano<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>sungumzo<s n="n"/><s n="cl5"/></l><r>lisano<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>vazt<s n="n"/><s n="cl5"/></l><r>elambá<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>vao<s n="n"/><s n="cl5"/></l><r>elambá<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>liwali<s n="n"/><s n="cl5"/></l><r>moyángeli<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>kaburi<s n="n"/><s n="cl5"/></l><r>lilita<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>sitara<s n="n"/><s n="cl5"/></l><r>lilita<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>tegemeo<s n="n"/><s n="cl5"/></l><r>nsé<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>tumbo<s n="n"/><s n="cl5"/></l><r>mosɔpɔ́<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>unyoya<s n="n"/><s n="cl5"/></l><r>kíti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>fako<s n="n"/><s n="cl5"/></l><r>etubeli<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>fungu<s n="n"/><s n="cl5"/></l><r>mopiko<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>mwanaume\ shujaa<s n="n"/><s n="cl5"/></l><r>mokwéla<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>zembe<s n="n"/><s n="cl5"/></l><r>mobɛ́ti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>tundu<s n="n"/><s n="cl5"/></l><r>lidúsu<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>pango<s n="n"/><s n="cl5"/></l><r>lidúsu<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>kuo<s n="n"/><s n="cl5"/></l><r>lidúsu<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>tukio<s n="n"/><s n="cl5"/></l><r>likama<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>gudulia<s n="n"/><s n="cl5"/></l><r>libeki<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>zaya<s n="n"/><s n="cl5"/></l><r>mbángá<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>katht<s n="n"/><s n="cl5"/></l><r>mobekisi<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>ruko<s n="n"/><s n="cl5"/></l><r>mobɛ́ti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>jumbe<s n="n"/><s n="cl5"/></l><r>mokónzi<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>sultant<s n="n"/><s n="cl5"/></l><r>mokónzi<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>pingili<s n="n"/><s n="cl5"/></l><r>litongo<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>ziwa\ ya\ maji<s n="n"/><s n="cl5"/></l><r>esanga<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>fanyia<s n="n"/><s n="cl5"/></l><r>etáláká<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>konde<s n="n"/><s n="cl5"/></l><r>mpɔndú<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>lendegu<s n="n"/><s n="cl5"/></l><r>lokolo<s n="n"/><s n="cl11"/></r></p></e>
+    <e><p><l>fundisho<s n="n"/><s n="cl5"/></l><r>litéya<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>zawi<s n="n"/><s n="cl5"/></l><r>bolimbisi<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>gogo<s n="n"/><s n="cl5"/></l><r>molɔngɔ́<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>waa<s n="n"/><s n="cl5"/></l><r>wɛnzɛ<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>soko<s n="n"/><s n="cl5"/></l><r>wɛnzɛ<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>honde<s n="n"/><s n="cl5"/></l><r>esóbé<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>tajiri<s n="n"/><s n="cl5"/></l><r>motɛ́kisi<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>ajabu<s n="n"/><s n="cl5"/></l><r>likámwisi<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>jabali<s n="n"/><s n="cl5"/></l><r>ngómbá<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>tajiri<s n="n"/><s n="cl5"/></l><r>mobɛ́ti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>jina<s n="n"/><s n="cl5"/></l><r>nkómbó<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>shingo<s n="n"/><s n="cl5"/></l><r>nkíngó<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>jaana<s n="n"/><s n="cl5"/></l><r>botutu<s n="n"/><s n="cl14"/></r></p></e>
+    <e><p><l>chungwa<s n="n"/><s n="cl5"/></l><r>lilála<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>agizo<s n="n"/><s n="cl5"/></l><r>mobúlú<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>joko<s n="n"/><s n="cl5"/></l><r>etumbeli<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>feto<s n="n"/><s n="cl5"/></l><r>ebimba<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>kasha<s n="n"/><s n="cl5"/></l><r>ebimba<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>chungu<s n="n"/><s n="cl5"/></l><r>mopǎgánu<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>kango<s n="n"/><s n="cl5"/></l><r>mopǎgánu<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>fungu<s n="n"/><s n="cl5"/></l><r>lingómbá<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>kundi<s n="n"/><s n="cl5"/></l><r>lingómbá<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>konzi<s n="n"/><s n="cl5"/></l><r>mosálá<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>takia<s n="n"/><s n="cl5"/></l><r>likoba<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>shauri<s n="n"/><s n="cl5"/></l><r>likómbɔ́kɔ<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>siwa<s n="n"/><s n="cl5"/></l><r>etímá<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>sufurza<s n="n"/><s n="cl5"/></l><r>libɛngɛ́<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>zadi<s n="n"/><s n="cl5"/></l><r>profete<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>nabii<s n="n"/><s n="cl5"/></l><r>profete<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>jimbo<s n="n"/><s n="cl5"/></l><r>kanton<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>ulizo<s n="n"/><s n="cl5"/></l><r>motuna<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>shindano<s n="n"/><s n="cl5"/></l><r>ekómo<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>zaifa<s n="n"/><s n="cl5"/></l><r>ekómo<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>shapa<s n="n"/><s n="cl5"/></l><r>mole<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>toa<s n="n"/><s n="cl5"/></l><r>lisopɔ́<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>shindo<s n="n"/><s n="cl5"/></l><r>motámbo<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>posho<s n="n"/><s n="cl5"/></l><r>lisakoli<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>shimo<s n="n"/><s n="cl5"/></l><r>kóko<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>salia<s n="n"/><s n="cl5"/></l><r>nganda<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>saso<s n="n"/><s n="cl5"/></l><r>nganda<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>shinda<s n="n"/><s n="cl5"/></l><r>nganda<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>chukio<s n="n"/><s n="cl5"/></l><r>mobɛ́ti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>taruma<s n="n"/><s n="cl5"/></l><r>mopanzí<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>pige<s n="n"/><s n="cl5"/></l><r>moswá<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>gogo<s n="n"/><s n="cl5"/></l><r>ngando<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>shina<s n="n"/><s n="cl5"/></l><r>mótɛkɛ<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>darabi<s n="n"/><s n="cl5"/></l><r>mbuma<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>wali<s n="n"/><s n="cl5"/></l><r>emekeli<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>gunia<s n="n"/><s n="cl5"/></l><r>mofuku<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>poli<s n="n"/><s n="cl5"/></l><r>esóbé<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>pululu<s n="n"/><s n="cl5"/></l><r>esóbé<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>nyika<s n="n"/><s n="cl5"/></l><r>esóbé<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>hove<s n="n"/><s n="cl5"/></l><r>litambála<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>kasia<s n="n"/><s n="cl5"/></l><r>molúki<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>fungu<s n="n"/><s n="cl5"/></l><r>mokapo<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>duka<s n="n"/><s n="cl5"/></l><r>epískɔ́pɔ<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>gadi<s n="n"/><s n="cl5"/></l><r>libóngo<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>bega<s n="n"/><s n="cl5"/></l><r>libeke<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>kosa<s n="n"/><s n="cl5"/></l><r>moyémbi<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>hadimu<s n="n"/><s n="cl5"/></l><r>moómbó<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>fundi<s n="n"/><s n="cl5"/></l><r>motúli<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>konokono<s n="n"/><s n="cl5"/></l><r>mobɛmbɛ́<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>nyoka<s n="n"/><s n="cl5"/></l><r>nyoka<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>kali<s n="n"/><s n="cl5"/></l><r>mobɛ́ti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>dumba<s n="n"/><s n="cl5"/></l><r>sodá<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>fumbo<s n="n"/><s n="cl5"/></l><r>libumu<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>taruma<s n="n"/><s n="cl5"/></l><r>mobɛ́ti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>mbo<s n="n"/><s n="cl5"/></l><r>mobɛ́ti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>zizi<s n="n"/><s n="cl5"/></l><r>mobɛ́ti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>umivu<s n="n"/><s n="cl5"/></l><r>mpási<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>jua<s n="n"/><s n="cl5"/></l><r>lisungi<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>onyo<s n="n"/><s n="cl5"/></l><r>elembo<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>fundi<s n="n"/><s n="cl5"/></l><r>motéyi<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>paja<s n="n"/><s n="cl5"/></l><r>ebelo<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>dude<s n="n"/><s n="cl5"/></l><r>molili<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>wazo<s n="n"/><s n="cl5"/></l><r>likanisi<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>koo<s n="n"/><s n="cl5"/></l><r>mongóngó<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>fabaka<s n="n"/><s n="cl5"/></l><r>simetiere<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>kaburi<s n="n"/><s n="cl5"/></l><r>etombá<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>ziara<s n="n"/><s n="cl5"/></l><r>etombá<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>maumivu<s n="n"/><s n="cl5"/></l><r>monyókoli<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>shimo<s n="n"/><s n="cl5"/></l><r>mongololo<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>pipa<s n="n"/><s n="cl5"/></l><r>mongenzu<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>uvimbe<s n="n"/><s n="cl5"/></l><r>litútu<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>tundu<s n="n"/><s n="cl5"/></l><r>lidúsu<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>pacha<s n="n"/><s n="cl5"/></l><r>lipása<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>pindi<s n="n"/><s n="cl5"/></l><r>eténi<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>musnye<s n="n"/><s n="cl5"/></l><r>ndúnda<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>aliwa<s n="n"/><s n="cl5"/></l><r>ntolí<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>wimbi<s n="n"/><s n="cl5"/></l><r>ebangá<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>mwenyi<s n="n"/><s n="cl5"/></l><r>mobɛ́ti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>shimo\ la\ maji<s n="n"/><s n="cl5"/></l><r>libulu<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>dude<s n="n"/><s n="cl5"/></l><r>mobɛ́ti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>gurudumu<s n="n"/><s n="cl5"/></l><r>eyíká<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>kahaba<s n="n"/><s n="cl5"/></l><r>ndúmba<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>dawa<s n="n"/><s n="cl5"/></l><r>nkísi<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>jangwa<s n="n"/><s n="cl5"/></l><r>esóbé<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>neno<s n="n"/><s n="cl5"/></l><r>elɔ́kɔ<s n="n"/><s n="cl7"/></r></p></e>
+    <e><p><l>andiko<s n="n"/><s n="cl5"/></l><r>mabendé<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>kelele<s n="n"/><s n="cl5"/></l><r>mondúle<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>kiti<s n="n"/><s n="cl7"/></l><r>kíti<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>kisu<s n="n"/><s n="cl7"/></l><r>mbelí<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>kichwa<s n="n"/><s n="cl7"/></l><r>motu<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>kidole<s n="n"/><s n="cl7"/></l><r>mosapi<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>chupa<s n="n"/><s n="cl9"/></l><r>molangi<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>chai<s n="n"/><s n="cl9"/></l><r>motéyi<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>bahari<s n="n"/><s n="cl9"/></l><r>mapɔnɔmi<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>nyumba<s n="n"/><s n="cl9"/></l><r>ndáko<s n="n"/><s n="cl1"/></r></p></e>
+    <e><p><l>meza<s n="n"/><s n="cl9"/></l><r>mesa<s n="n"/><s n="cl9"/></r></p></e>
+    <e><p><l>ufunguo<s n="n"/><s n="cl11"/></l><r>lifúngola<s n="n"/><s n="cl5"/></r></p></e>
+    <e><p><l>ulimwengu<s n="n"/><s n="cl14"/></l><r>molóngó<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>umri<s n="n"/><s n="cl14"/></l><r>monɔkɔ<s n="n"/><s n="cl3"/></r></p></e>
+    <e><p><l>usingizi<s n="n"/><s n="cl14"/></l><r>mpongí<s n="n"/><s n="cl9"/></r></p></e>
+    
 
     <!-- Verbs -->
     <e><p><l>kutafuta<s n="vblex"/></l><r>koluka<s n="vblex"/></r></p></e>
@@ -153,6 +421,1131 @@
     <e><p><l>kuongea<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
     <e><p><l>kula<s n="vblex"/></l><r>kolia<s n="vblex"/></r></p></e>
     <e><p><l>kunywa<s n="vblex"/></l><r>komɛla<s n="vblex"/></r></p></e>
+
+    <e><p><l>kuangalia<s n="vblex"/></l><r>kotála<s n="vblex"/></r></p></e>
+    <e><p><l>kucheza<s n="vblex"/></l><r>kosakana<s n="vblex"/></r></p></e>
+    <e><p><l>kufunga<s n="vblex"/></l><r>kokanga<s n="vblex"/></r></p></e>
+    <e><p><l>kufungua<s n="vblex"/></l><r>kofungola<s n="vblex"/></r></p></e>
+    <e><p><l>kuona<s n="vblex"/></l><r>komɔ́na<s n="vblex"/></r></p></e>
+    <e><p><l>kuchukia<s n="vblex"/></l><r>koyina<s n="vblex"/></r></p></e>
+    <e><p><l>kufuata<s n="vblex"/></l><r>kolanda<s n="vblex"/></r></p></e>
+    <e><p><l>kuondoa<s n="vblex"/></l><r>kolongola<s n="vblex"/></r></p></e>
+    <e><p><l>kukimbia<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
+    <e><p><l>kughofiri<s n="vblex"/></l><r>kolímbisa<s n="vblex"/></r></p></e>
+    <e><p><l>kusamche<s n="vblex"/></l><r>kolímbisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuepuka<s n="vblex"/></l><r>kokila<s n="vblex"/></r></p></e>
+    <e><p><l>kumatusht<s n="vblex"/></l><r>kotúka<s n="vblex"/></r></p></e>
+    <e><p><l>kumatusu<s n="vblex"/></l><r>kotúka<s n="vblex"/></r></p></e>
+    <e><p><l>kukubali<s n="vblex"/></l><r>koyamba<s n="vblex"/></r></p></e>
+    <e><p><l>kukubali<s n="vblex"/></l><r>koyamba<s n="vblex"/></r></p></e>
+    <e><p><l>kufuatana<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kumaliza<s n="vblex"/></l><r>kosílisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutimtliza<s n="vblex"/></l><r>kosílisa<s n="vblex"/></r></p></e>
+    <e><p><l>kukusanya<s n="vblex"/></l><r>koyíkinya<s n="vblex"/></r></p></e>
+    <e><p><l>kuhubiri<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kunatambua<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kunajua<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kutekeleza<s n="vblex"/></l><r>kolongola<s n="vblex"/></r></p></e>
+    <e><p><l>kulinganisha<s n="vblex"/></l><r>kobɔ́ngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kufanyiza<s n="vblex"/></l><r>kobɔ́ngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuuza<s n="vblex"/></l><r>kobɔ́ngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuingiza<s n="vblex"/></l><r>kondima<s n="vblex"/></r></p></e>
+    <e><p><l>kuchagua<s n="vblex"/></l><r>koyamba<s n="vblex"/></r></p></e>
+    <e><p><l>kutumia<s n="vblex"/></l><r>koyamba<s n="vblex"/></r></p></e>
+    <e><p><l>kuendelesha<s n="vblex"/></l><r>kokoba<s n="vblex"/></r></p></e>
+    <e><p><l>kuendeleza<s n="vblex"/></l><r>kokoba<s n="vblex"/></r></p></e>
+    <e><p><l>kusogeza<s n="vblex"/></l><r>kokoba<s n="vblex"/></r></p></e>
+    <e><p><l>kujongeza\ mbele<s n="vblex"/></l><r>kokoba<s n="vblex"/></r></p></e>
+    <e><p><l>kuongeza<s n="vblex"/></l><r>kokoba<s n="vblex"/></r></p></e>
+    <e><p><l>kuzidisha<s n="vblex"/></l><r>kokoba<s n="vblex"/></r></p></e>
+    <e><p><l>kuzidi<s n="vblex"/></l><r>kokoba<s n="vblex"/></r></p></e>
+    <e><p><l>kuonya<s n="vblex"/></l><r>kolaka<s n="vblex"/></r></p></e>
+    <e><p><l>kushauri\ arifu<s n="vblex"/></l><r>kolaka<s n="vblex"/></r></p></e>
+    <e><p><l>kuumbua<s n="vblex"/></l><r>koyamba<s n="vblex"/></r></p></e>
+    <e><p><l>kuhaimstahili<s n="vblex"/></l><r>koyamba<s n="vblex"/></r></p></e>
+    <e><p><l>kuamini<s n="vblex"/></l><r>koyamba<s n="vblex"/></r></p></e>
+    <e><p><l>kusadiki<s n="vblex"/></l><r>koyamba<s n="vblex"/></r></p></e>
+    <e><p><l>kukombo<s n="vblex"/></l><r>kogúmba<s n="vblex"/></r></p></e>
+    <e><p><l>kunepa<s n="vblex"/></l><r>kogúmba<s n="vblex"/></r></p></e>
+    <e><p><l>kukunjika<s n="vblex"/></l><r>kogúmba<s n="vblex"/></r></p></e>
+    <e><p><l>kupeteza<s n="vblex"/></l><r>kogúmba<s n="vblex"/></r></p></e>
+    <e><p><l>kukiri<s n="vblex"/></l><r>kodima<s n="vblex"/></r></p></e>
+    <e><p><l>kuukubali<s n="vblex"/></l><r>kodima<s n="vblex"/></r></p></e>
+    <e><p><l>kuzhubulisha<s n="vblex"/></l><r>koléndisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuhakikisha<s n="vblex"/></l><r>koléndisa<s n="vblex"/></r></p></e>
+    <e><p><l>kunaam<s n="vblex"/></l><r>koléndisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuajabisha<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kushangaza<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kujaribu<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+    <e><p><l>kubidii<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+    <e><p><l>kuhojiana<s n="vblex"/></l><r>koswána<s n="vblex"/></r></p></e>
+    <e><p><l>kutetana<s n="vblex"/></l><r>koswána<s n="vblex"/></r></p></e>
+    <e><p><l>kubishana<s n="vblex"/></l><r>koswána<s n="vblex"/></r></p></e>
+    <e><p><l>kuhoji<s n="vblex"/></l><r>koswána<s n="vblex"/></r></p></e>
+    <e><p><l>kuandika<s n="vblex"/></l><r>kobɔ́ngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kusatitt<s n="vblex"/></l><r>kobɔ́ngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutengenesa<s n="vblex"/></l><r>kobɔ́ngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kusafidi<s n="vblex"/></l><r>kobɔ́ngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kupanga<s n="vblex"/></l><r>kobɔ́ngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuamuru<s n="vblex"/></l><r>kobɔ́ngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutultza<s n="vblex"/></l><r>kobɔ́ngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuamri<s n="vblex"/></l><r>kobɔ́ngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kufika<s n="vblex"/></l><r>kokóma<s n="vblex"/></r></p></e>
+    <e><p><l>kufaka<s n="vblex"/></l><r>kotúna<s n="vblex"/></r></p></e>
+    <e><p><l>kuomba<s n="vblex"/></l><r>kobɔ́ndɛla<s n="vblex"/></r></p></e>
+    <e><p><l>kuuliza<s n="vblex"/></l><r>kotúna<s n="vblex"/></r></p></e>
+    <e><p><l>kususanya<s n="vblex"/></l><r>koyanginya<s n="vblex"/></r></p></e>
+    <e><p><l>kukudbals<s n="vblex"/></l><r>kodima<s n="vblex"/></r></p></e>
+    <e><p><l>kuacha<s n="vblex"/></l><r>komɛla<s n="vblex"/></r></p></e>
+    <e><p><l>kuruhusu<s n="vblex"/></l><r>komɛla<s n="vblex"/></r></p></e>
+    <e><p><l>kubadilisha<s n="vblex"/></l><r>koúta<s n="vblex"/></r></p></e>
+    <e><p><l>kubadili\ geuka<s n="vblex"/></l><r>koúta<s n="vblex"/></r></p></e>
+    <e><p><l>kuacha\ huu<s n="vblex"/></l><r>kozwa<s n="vblex"/></r></p></e>
+    <e><p><l>kukwaa\ huu<s n="vblex"/></l><r>kozwa<s n="vblex"/></r></p></e>
+    <e><p><l>kuminami<s n="vblex"/></l><r>kokamata<s n="vblex"/></r></p></e>
+    <e><p><l>kuajabisha<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kushangaza<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kufathaisha<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kustaajabu<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kutoshea<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kupendeza<s n="vblex"/></l><r>kosɛkisa<s n="vblex"/></r></p></e>
+    <e><p><l>kufurahisha<s n="vblex"/></l><r>kosɛkisa<s n="vblex"/></r></p></e>
+    <e><p><l>kufangua<s n="vblex"/></l><r>kobɔ́íya<s n="vblex"/></r></p></e>
+    <e><p><l>kujibu<s n="vblex"/></l><r>koyánola<s n="vblex"/></r></p></e>
+    <e><p><l>kudirtki<s n="vblex"/></l><r>koyánola<s n="vblex"/></r></p></e>
+    <e><p><l>kuahidia<s n="vblex"/></l><r>koyánola<s n="vblex"/></r></p></e>
+    <e><p><l>kuonckana<s n="vblex"/></l><r>komɔ́nana<s n="vblex"/></r></p></e>
+    <e><p><l>kutuliza<s n="vblex"/></l><r>kobɔ́ndisa<s n="vblex"/></r></p></e>
+    <e><p><l>kusuluhisha<s n="vblex"/></l><r>kobɔ́ndisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuomba<s n="vblex"/></l><r>kobánza<s n="vblex"/></r></p></e>
+    <e><p><l>kufoleahaja<s n="vblex"/></l><r>kobánza<s n="vblex"/></r></p></e>
+    <e><p><l>kunenea<s n="vblex"/></l><r>kobánza<s n="vblex"/></r></p></e>
+    <e><p><l>kubariki<s n="vblex"/></l><r>kopambola<s n="vblex"/></r></p></e>
+    <e><p><l>kudanganya<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+    <e><p><l>kuzimilizia<s n="vblex"/></l><r>kolongola<s n="vblex"/></r></p></e>
+    <e><p><l>kuaibisha<s n="vblex"/></l><r>kobéba<s n="vblex"/></r></p></e>
+    <e><p><l>kuasima<s n="vblex"/></l><r>kobéka<s n="vblex"/></r></p></e>
+    <e><p><l>kukopa<s n="vblex"/></l><r>kobéka<s n="vblex"/></r></p></e>
+    <e><p><l>kukarithika<s n="vblex"/></l><r>kobéka<s n="vblex"/></r></p></e>
+    <e><p><l>kukumut<s n="vblex"/></l><r>kokabwa<s n="vblex"/></r></p></e>
+    <e><p><l>kuendaupande<s n="vblex"/></l><r>kokabwa<s n="vblex"/></r></p></e>
+    <e><p><l>kuvunja<s n="vblex"/></l><r>kopasola<s n="vblex"/></r></p></e>
+    <e><p><l>kupumusika<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kujenga<s n="vblex"/></l><r>kotónga<s n="vblex"/></r></p></e>
+    <e><p><l>kuaka<s n="vblex"/></l><r>kotónga<s n="vblex"/></r></p></e>
+    <e><p><l>kusetiri<s n="vblex"/></l><r>kokunda<s n="vblex"/></r></p></e>
+    <e><p><l>kuaesabu<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutumainia<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuvanda<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kurukaruka<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kukamafa<s n="vblex"/></l><r>kokwâ<s n="vblex"/></r></p></e>
+    <e><p><l>kufata<s n="vblex"/></l><r>kokwâ<s n="vblex"/></r></p></e>
+    <e><p><l>kumawindo<s n="vblex"/></l><r>kokwâ<s n="vblex"/></r></p></e>
+    <e><p><l>kuhathari<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kubidii<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kusikitikia<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kusumbukia<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kujishughulisha<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kukumbuka<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuwekewa<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutunza<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kupenda<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuchukua<s n="vblex"/></l><r>kokúmba<s n="vblex"/></r></p></e>
+    <e><p><l>kupeleka<s n="vblex"/></l><r>kokúmba<s n="vblex"/></r></p></e>
+    <e><p><l>kubadilisha<s n="vblex"/></l><r>kosúmbutána<s n="vblex"/></r></p></e>
+    <e><p><l>kubadili<s n="vblex"/></l><r>kosúmbutána<s n="vblex"/></r></p></e>
+    <e><p><l>kugeuka<s n="vblex"/></l><r>kosúmbutána<s n="vblex"/></r></p></e>
+    <e><p><l>kuomgea<s n="vblex"/></l><r>kosolola<s n="vblex"/></r></p></e>
+    <e><p><l>kudanganya<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+    <e><p><l>kupunja<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+    <e><p><l>kukalamkia<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+    <e><p><l>kumkopi<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+    <e><p><l>kumdanganifu<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+    <e><p><l>kuua<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kufata<s n="vblex"/></l><r>kokwété<s n="vblex"/></r></p></e>
+    <e><p><l>kuhaja<s n="vblex"/></l><r>kosakola<s n="vblex"/></r></p></e>
+    <e><p><l>kumadat<s n="vblex"/></l><r>kosakola<s n="vblex"/></r></p></e>
+    <e><p><l>kukwea<s n="vblex"/></l><r>komáta<s n="vblex"/></r></p></e>
+    <e><p><l>kuisha<s n="vblex"/></l><r>kokanga<s n="vblex"/></r></p></e>
+    <e><p><l>kufumba<s n="vblex"/></l><r>kokanga<s n="vblex"/></r></p></e>
+    <e><p><l>kufumbata<s n="vblex"/></l><r>kokanga<s n="vblex"/></r></p></e>
+    <e><p><l>kukubali<s n="vblex"/></l><r>kokanga<s n="vblex"/></r></p></e>
+    <e><p><l>kupatana<s n="vblex"/></l><r>kokanga<s n="vblex"/></r></p></e>
+    <e><p><l>kusongana<s n="vblex"/></l><r>kokanga<s n="vblex"/></r></p></e>
+    <e><p><l>kuvaa<s n="vblex"/></l><r>kolátisa<s n="vblex"/></r></p></e>
+    <e><p><l>kukaba<s n="vblex"/></l><r>kokamata<s n="vblex"/></r></p></e>
+    <e><p><l>kushtkasana<s n="vblex"/></l><r>kokamata<s n="vblex"/></r></p></e>
+    <e><p><l>kubembeleza<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuvuta<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kukusanya<s n="vblex"/></l><r>kotákola<s n="vblex"/></r></p></e>
+    <e><p><l>kukutanika<s n="vblex"/></l><r>kotákola<s n="vblex"/></r></p></e>
+    <e><p><l>kuvita<s n="vblex"/></l><r>kobunda<s n="vblex"/></r></p></e>
+    <e><p><l>kupambanisha<s n="vblex"/></l><r>kokɛsɛna<s n="vblex"/></r></p></e>
+    <e><p><l>kulinganisha<s n="vblex"/></l><r>kokɛsɛna<s n="vblex"/></r></p></e>
+    <e><p><l>kufafanisha<s n="vblex"/></l><r>kokɛsɛna<s n="vblex"/></r></p></e>
+    <e><p><l>kufananiska<s n="vblex"/></l><r>kokɛsɛna<s n="vblex"/></r></p></e>
+    <e><p><l>kukuliko<s n="vblex"/></l><r>kokɛsɛna<s n="vblex"/></r></p></e>
+    <e><p><l>kulilia<s n="vblex"/></l><r>kopata<s n="vblex"/></r></p></e>
+    <e><p><l>kumaliza<s n="vblex"/></l><r>kosílisa<s n="vblex"/></r></p></e>
+    <e><p><l>kulimiliza<s n="vblex"/></l><r>kosílisa<s n="vblex"/></r></p></e>
+    <e><p><l>kukamilisha<s n="vblex"/></l><r>kosílisa<s n="vblex"/></r></p></e>
+    <e><p><l>kukamilifu<s n="vblex"/></l><r>kosílisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutimilifu<s n="vblex"/></l><r>kosílisa<s n="vblex"/></r></p></e>
+    <e><p><l>kufanya\ matata<s n="vblex"/></l><r>kobúlinginya<s n="vblex"/></r></p></e>
+    <e><p><l>kukubalt<s n="vblex"/></l><r>koyímayima<s n="vblex"/></r></p></e>
+    <e><p><l>kustikia<s n="vblex"/></l><r>koyímayima<s n="vblex"/></r></p></e>
+    <e><p><l>kuiti<s n="vblex"/></l><r>koyímayima<s n="vblex"/></r></p></e>
+    <e><p><l>kusikia<s n="vblex"/></l><r>koyímayima<s n="vblex"/></r></p></e>
+    <e><p><l>kukiri<s n="vblex"/></l><r>koyambola<s n="vblex"/></r></p></e>
+    <e><p><l>kumngama<s n="vblex"/></l><r>koyambola<s n="vblex"/></r></p></e>
+    <e><p><l>kushangilia<s n="vblex"/></l><r>kosepela<s n="vblex"/></r></p></e>
+    <e><p><l>kusivyo<s n="vblex"/></l><r>kotúmola<s n="vblex"/></r></p></e>
+    <e><p><l>kukana<s n="vblex"/></l><r>kotúmola<s n="vblex"/></r></p></e>
+    <e><p><l>kukania<s n="vblex"/></l><r>kotúmola<s n="vblex"/></r></p></e>
+    <e><p><l>kukanusha<s n="vblex"/></l><r>kotúmola<s n="vblex"/></r></p></e>
+    <e><p><l>kualiniambia<s n="vblex"/></l><r>kotúmola<s n="vblex"/></r></p></e>
+    <e><p><l>kusio<s n="vblex"/></l><r>kotúmola<s n="vblex"/></r></p></e>
+    <e><p><l>kuzungumza<s n="vblex"/></l><r>kosólola<s n="vblex"/></r></p></e>
+    <e><p><l>kuongea<s n="vblex"/></l><r>kosólola<s n="vblex"/></r></p></e>
+    <e><p><l>kugeuza<s n="vblex"/></l><r>kobongola<s n="vblex"/></r></p></e>
+    <e><p><l>kuheshimu<s n="vblex"/></l><r>kosámba<s n="vblex"/></r></p></e>
+    <e><p><l>kuposa<s n="vblex"/></l><r>kosámba<s n="vblex"/></r></p></e>
+    <e><p><l>kufunika<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
+    <e><p><l>kucovering<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
+    <e><p><l>kukichaka<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
+    <e><p><l>kutamani<s n="vblex"/></l><r>kolúla<s n="vblex"/></r></p></e>
+    <e><p><l>kupasua<s n="vblex"/></l><r>kobúka<s n="vblex"/></r></p></e>
+    <e><p><l>kuupindo<s n="vblex"/></l><r>kokóla<s n="vblex"/></r></p></e>
+    <e><p><l>kuumba<s n="vblex"/></l><r>kokɛla<s n="vblex"/></r></p></e>
+    <e><p><l>kufanyisa<s n="vblex"/></l><r>kokɛla<s n="vblex"/></r></p></e>
+    <e><p><l>kuvumbua<s n="vblex"/></l><r>kokɛla<s n="vblex"/></r></p></e>
+    <e><p><l>kupandana<s n="vblex"/></l><r>koínga<s n="vblex"/></r></p></e>
+    <e><p><l>kupinga<s n="vblex"/></l><r>koínga<s n="vblex"/></r></p></e>
+    <e><p><l>kusumbua<s n="vblex"/></l><r>koínga<s n="vblex"/></r></p></e>
+    <e><p><l>kuchokoza<s n="vblex"/></l><r>koínga<s n="vblex"/></r></p></e>
+    <e><p><l>kupakata<s n="vblex"/></l><r>koínga<s n="vblex"/></r></p></e>
+    <e><p><l>kutaabu<s n="vblex"/></l><r>koínga<s n="vblex"/></r></p></e>
+    <e><p><l>kudia<s n="vblex"/></l><r>kolela<s n="vblex"/></r></p></e>
+    <e><p><l>kuguta<s n="vblex"/></l><r>kolela<s n="vblex"/></r></p></e>
+    <e><p><l>kuima<s n="vblex"/></l><r>kolóna<s n="vblex"/></r></p></e>
+    <e><p><l>kufundisha<s n="vblex"/></l><r>kolóna<s n="vblex"/></r></p></e>
+    <e><p><l>kuongoza<s n="vblex"/></l><r>kolóna<s n="vblex"/></r></p></e>
+    <e><p><l>kuumika<s n="vblex"/></l><r>kokónza<s n="vblex"/></r></p></e>
+    <e><p><l>kuponya<s n="vblex"/></l><r>kobíkisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuchora<s n="vblex"/></l><r>kokáta<s n="vblex"/></r></p></e>
+    <e><p><l>kuchomamoyo<s n="vblex"/></l><r>kokáta<s n="vblex"/></r></p></e>
+    <e><p><l>kuharibu<s n="vblex"/></l><r>kobébisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuhasiri<s n="vblex"/></l><r>kobébisa<s n="vblex"/></r></p></e>
+    <e><p><l>kumathara<s n="vblex"/></l><r>kobébisa<s n="vblex"/></r></p></e>
+    <e><p><l>kudanganya<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+    <e><p><l>kupunja<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+    <e><p><l>kukopa<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+    <e><p><l>kukaramkia<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+    <e><p><l>kushaua<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+    <e><p><l>kukafamaneno<s n="vblex"/></l><r>kokána<s n="vblex"/></r></p></e>
+    <e><p><l>kunia<s n="vblex"/></l><r>kokána<s n="vblex"/></r></p></e>
+    <e><p><l>kushinda<s n="vblex"/></l><r>kolónga<s n="vblex"/></r></p></e>
+    <e><p><l>kukimbiza<s n="vblex"/></l><r>kolónga<s n="vblex"/></r></p></e>
+    <e><p><l>kupiga<s n="vblex"/></l><r>kolónga<s n="vblex"/></r></p></e>
+    <e><p><l>kukufukuzwa<s n="vblex"/></l><r>kolónga<s n="vblex"/></r></p></e>
+    <e><p><l>kukubatilika<s n="vblex"/></l><r>kolónga<s n="vblex"/></r></p></e>
+    <e><p><l>kuokoa<s n="vblex"/></l><r>kosikola<s n="vblex"/></r></p></e>
+    <e><p><l>kuponya<s n="vblex"/></l><r>kosikola<s n="vblex"/></r></p></e>
+    <e><p><l>kutoa<s n="vblex"/></l><r>kosikola<s n="vblex"/></r></p></e>
+    <e><p><l>kusalimtsha<s n="vblex"/></l><r>kosikola<s n="vblex"/></r></p></e>
+    <e><p><l>kuharibu<s n="vblex"/></l><r>kotóngola<s n="vblex"/></r></p></e>
+    <e><p><l>kuvunja<s n="vblex"/></l><r>kotóngola<s n="vblex"/></r></p></e>
+    <e><p><l>kusana<s n="vblex"/></l><r>koángana<s n="vblex"/></r></p></e>
+    <e><p><l>kutaka<s n="vblex"/></l><r>kolinga<s n="vblex"/></r></p></e>
+    <e><p><l>kutamani<s n="vblex"/></l><r>kolinga<s n="vblex"/></r></p></e>
+    <e><p><l>kutunuka<s n="vblex"/></l><r>kolinga<s n="vblex"/></r></p></e>
+    <e><p><l>kuashiiki<s n="vblex"/></l><r>kolinga<s n="vblex"/></r></p></e>
+    <e><p><l>kutamani<s n="vblex"/></l><r>kolinga<s n="vblex"/></r></p></e>
+    <e><p><l>kutharau<s n="vblex"/></l><r>koyina<s n="vblex"/></r></p></e>
+    <e><p><l>kulenga<s n="vblex"/></l><r>kopusola<s n="vblex"/></r></p></e>
+    <e><p><l>kukata<s n="vblex"/></l><r>kopusola<s n="vblex"/></r></p></e>
+    <e><p><l>kutoa<s n="vblex"/></l><r>kopusola<s n="vblex"/></r></p></e>
+    <e><p><l>kuvunja<s n="vblex"/></l><r>kopusola<s n="vblex"/></r></p></e>
+    <e><p><l>kusalimika<s n="vblex"/></l><r>kokúfwa<s n="vblex"/></r></p></e>
+    <e><p><l>kulegea<s n="vblex"/></l><r>kokúfwa<s n="vblex"/></r></p></e>
+    <e><p><l>kukauka<s n="vblex"/></l><r>kokúfwa<s n="vblex"/></r></p></e>
+    <e><p><l>kufifa<s n="vblex"/></l><r>kokúfwa<s n="vblex"/></r></p></e>
+    <e><p><l>kufifa<s n="vblex"/></l><r>kokúfwa<s n="vblex"/></r></p></e>
+    <e><p><l>kusimia<s n="vblex"/></l><r>kokúfwa<s n="vblex"/></r></p></e>
+    <e><p><l>kutapanya<s n="vblex"/></l><r>kopalangana<s n="vblex"/></r></p></e>
+    <e><p><l>kutawanya<s n="vblex"/></l><r>kopalangana<s n="vblex"/></r></p></e>
+    <e><p><l>kupunguka<s n="vblex"/></l><r>kobukola<s n="vblex"/></r></p></e>
+    <e><p><l>kufoweka<s n="vblex"/></l><r>kolimwa<s n="vblex"/></r></p></e>
+    <e><p><l>kutokomea<s n="vblex"/></l><r>kolimwa<s n="vblex"/></r></p></e>
+    <e><p><l>kutoka<s n="vblex"/></l><r>kolimwa<s n="vblex"/></r></p></e>
+    <e><p><l>kusizimia<s n="vblex"/></l><r>kolimwa<s n="vblex"/></r></p></e>
+    <e><p><l>kuona<s n="vblex"/></l><r>kosɔsɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kufahamu<s n="vblex"/></l><r>kosɔsɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kutambua<s n="vblex"/></l><r>kosɔsɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kuvumbua<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
+    <e><p><l>kukuta<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
+    <e><p><l>kugundua<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
+    <e><p><l>kuthihirisha<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
+    <e><p><l>kutoa<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
+    <e><p><l>ku<s n="vblex"/></l><r>kobóya<s n="vblex"/></r></p></e>
+    <e><p><l>kutweza<s n="vblex"/></l><r>kobóya<s n="vblex"/></r></p></e>
+    <e><p><l>kuchukia<s n="vblex"/></l><r>kobóya<s n="vblex"/></r></p></e>
+    <e><p><l>kukataa<s n="vblex"/></l><r>kobóya<s n="vblex"/></r></p></e>
+    <e><p><l>kukiburs“disdainful<s n="vblex"/></l><r>kobóya<s n="vblex"/></r></p></e>
+    <e><p><l>kuumbua<s n="vblex"/></l><r>kobébisa<s n="vblex"/></r></p></e>
+    <e><p><l>kueneza<s n="vblex"/></l><r>kopalangana<s n="vblex"/></r></p></e>
+    <e><p><l>kuondosha<s n="vblex"/></l><r>kobɔtɔlɔ<s n="vblex"/></r></p></e>
+    <e><p><l>kufurahisha<s n="vblex"/></l><r>kopɛngɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kusenda<s n="vblex"/></l><r>koyamba<s n="vblex"/></r></p></e>
+    <e><p><l>kupunja<s n="vblex"/></l><r>koyamba<s n="vblex"/></r></p></e>
+    <e><p><l>kuendelea<s n="vblex"/></l><r>koyamba<s n="vblex"/></r></p></e>
+    <e><p><l>kusawala<s n="vblex"/></l><r>kokúma<s n="vblex"/></r></p></e>
+    <e><p><l>kuvuta<s n="vblex"/></l><r>kobénda<s n="vblex"/></r></p></e>
+    <e><p><l>kulokota<s n="vblex"/></l><r>kotóka<s n="vblex"/></r></p></e>
+    <e><p><l>kukusanyika<s n="vblex"/></l><r>kotóka<s n="vblex"/></r></p></e>
+    <e><p><l>kuyikunmyata<s n="vblex"/></l><r>kotóka<s n="vblex"/></r></p></e>
+    <e><p><l>kukaribia<s n="vblex"/></l><r>kotóka<s n="vblex"/></r></p></e>
+    <e><p><l>kufanyamwisho<s n="vblex"/></l><r>kotóka<s n="vblex"/></r></p></e>
+    <e><p><l>kusalimu<s n="vblex"/></l><r>komɛla<s n="vblex"/></r></p></e>
+    <e><p><l>kusukumiza<s n="vblex"/></l><r>kokúmba<s n="vblex"/></r></p></e>
+    <e><p><l>kuanguka<s n="vblex"/></l><r>kobóya<s n="vblex"/></r></p></e>
+    <e><p><l>kuponyoka<s n="vblex"/></l><r>kobóya<s n="vblex"/></r></p></e>
+    <e><p><l>kukauka<s n="vblex"/></l><r>kokékisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuaa<s n="vblex"/></l><r>kozala<s n="vblex"/></r></p></e>
+    <e><p><l>kushinda<s n="vblex"/></l><r>kozala<s n="vblex"/></r></p></e>
+    <e><p><l>kupunguka<s n="vblex"/></l><r>koɔndɔ́<s n="vblex"/></r></p></e>
+    <e><p><l>kuchakaa<s n="vblex"/></l><r>koɔndɔ́<s n="vblex"/></r></p></e>
+    <e><p><l>kupakia<s n="vblex"/></l><r>kokwela<s n="vblex"/></r></p></e>
+    <e><p><l>kuingia<s n="vblex"/></l><r>kokwela<s n="vblex"/></r></p></e>
+    <e><p><l>kuthubutisha<s n="vblex"/></l><r>komekisa<s n="vblex"/></r></p></e>
+    <e><p><l>kusayidia<s n="vblex"/></l><r>komekisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuendeleza<s n="vblex"/></l><r>komekisa<s n="vblex"/></r></p></e>
+    <e><p><l>kukomesha<s n="vblex"/></l><r>kolimba<s n="vblex"/></r></p></e>
+    <e><p><l>kuamuru<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kuagiza<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kufurahia<s n="vblex"/></l><r>kosepela<s n="vblex"/></r></p></e>
+    <e><p><l>kumiliki<s n="vblex"/></l><r>kosepela<s n="vblex"/></r></p></e>
+    <e><p><l>kuongeza<s n="vblex"/></l><r>konánola<s n="vblex"/></r></p></e>
+    <e><p><l>kuzidisha<s n="vblex"/></l><r>konánola<s n="vblex"/></r></p></e>
+    <e><p><l>kuokoka<s n="vblex"/></l><r>kokíma<s n="vblex"/></r></p></e>
+    <e><p><l>kuponyoka<s n="vblex"/></l><r>kokíma<s n="vblex"/></r></p></e>
+    <e><p><l>kuobservation<s n="vblex"/></l><r>kokíma<s n="vblex"/></r></p></e>
+    <e><p><l>kupitia<s n="vblex"/></l><r>kokíma<s n="vblex"/></r></p></e>
+    <e><p><l>kunalipitiwa<s n="vblex"/></l><r>kokíma<s n="vblex"/></r></p></e>
+    <e><p><l>kusikustkia<s n="vblex"/></l><r>kokíma<s n="vblex"/></r></p></e>
+    <e><p><l>kuweka<s n="vblex"/></l><r>kozalisa<s n="vblex"/></r></p></e>
+    <e><p><l>kufanyiza<s n="vblex"/></l><r>kozalisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutaua<s n="vblex"/></l><r>konetola<s n="vblex"/></r></p></e>
+    <e><p><l>kukweza<s n="vblex"/></l><r>konetola<s n="vblex"/></r></p></e>
+    <e><p><l>kutukuza<s n="vblex"/></l><r>konetola<s n="vblex"/></r></p></e>
+    <e><p><l>kuathimisha<s n="vblex"/></l><r>konetola<s n="vblex"/></r></p></e>
+    <e><p><l>kufila<s n="vblex"/></l><r>koleka<s n="vblex"/></r></p></e>
+    <e><p><l>kulia<s n="vblex"/></l><r>kongánga<s n="vblex"/></r></p></e>
+    <e><p><l>kuomyesha<s n="vblex"/></l><r>komɔ́nisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutembeza<s n="vblex"/></l><r>komɔ́nisa<s n="vblex"/></r></p></e>
+    <e><p><l>kueleza<s n="vblex"/></l><r>kolimbola<s n="vblex"/></r></p></e>
+    <e><p><l>kupambanua<s n="vblex"/></l><r>kolimbola<s n="vblex"/></r></p></e>
+    <e><p><l>kufasiri<s n="vblex"/></l><r>kolimbola<s n="vblex"/></r></p></e>
+    <e><p><l>kushindwa<s n="vblex"/></l><r>kokúfa<s n="vblex"/></r></p></e>
+    <e><p><l>kulegevu<s n="vblex"/></l><r>kotimba<s n="vblex"/></r></p></e>
+    <e><p><l>kuwangafu<s n="vblex"/></l><r>kotimba<s n="vblex"/></r></p></e>
+    <e><p><l>kudogo<s n="vblex"/></l><r>kotimba<s n="vblex"/></r></p></e>
+    <e><p><l>kufunga<s n="vblex"/></l><r>kofunga<s n="vblex"/></r></p></e>
+    <e><p><l>kukamata<s n="vblex"/></l><r>kofunga<s n="vblex"/></r></p></e>
+    <e><p><l>kuwoga<s n="vblex"/></l><r>kobánga<s n="vblex"/></r></p></e>
+    <e><p><l>kuogopa<s n="vblex"/></l><r>kobánga<s n="vblex"/></r></p></e>
+    <e><p><l>kuhofu<s n="vblex"/></l><r>kobánga<s n="vblex"/></r></p></e>
+    <e><p><l>kucha<s n="vblex"/></l><r>kobánga<s n="vblex"/></r></p></e>
+    <e><p><l>kuona<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
+    <e><p><l>kupata<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
+    <e><p><l>kukuta<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
+    <e><p><l>kuhakiki<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
+    <e><p><l>kumaliza<s n="vblex"/></l><r>kosílisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutimiza<s n="vblex"/></l><r>kosílisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutimiliza<s n="vblex"/></l><r>kosílisa<s n="vblex"/></r></p></e>
+    <e><p><l>kufanyamwisho<s n="vblex"/></l><r>kosílisa<s n="vblex"/></r></p></e>
+    <e><p><l>kukomesha<s n="vblex"/></l><r>kosílisa<s n="vblex"/></r></p></e>
+    <e><p><l>kufanyiza<s n="vblex"/></l><r>koíngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutengeneza<s n="vblex"/></l><r>koíngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kulinganisha<s n="vblex"/></l><r>koíngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuunga<s n="vblex"/></l><r>koíngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kufaa<s n="vblex"/></l><r>koíngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuvifaa<s n="vblex"/></l><r>koíngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kusawasawa<s n="vblex"/></l><r>koíngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuclea<s n="vblex"/></l><r>kotɛ́tá<s n="vblex"/></r></p></e>
+    <e><p><l>kuruka<s n="vblex"/></l><r>kopúmbwa<s n="vblex"/></r></p></e>
+    <e><p><l>kukimbia<s n="vblex"/></l><r>kopúmbwa<s n="vblex"/></r></p></e>
+    <e><p><l>kutisha<s n="vblex"/></l><r>kokónza<s n="vblex"/></r></p></e>
+    <e><p><l>kusukuma<s n="vblex"/></l><r>kokónza<s n="vblex"/></r></p></e>
+    <e><p><l>kuendesha<s n="vblex"/></l><r>kokónza<s n="vblex"/></r></p></e>
+    <e><p><l>kuanza<s n="vblex"/></l><r>kokónza<s n="vblex"/></r></p></e>
+    <e><p><l>kunamna<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kukawaida<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kucheo<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kuutaratibu<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kumatendamatupu<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kufanyiza<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kuumba<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kuwamo<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kuogofya<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuogofisha<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutiahofu<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuhofisha<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutisha<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kustuka<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kustushwa<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuyeyusha<s n="vblex"/></l><r>kobɔ́íya<s n="vblex"/></r></p></e>
+    <e><p><l>kufusee<s n="vblex"/></l><r>kobɔ́íya<s n="vblex"/></r></p></e>
+    <e><p><l>kuzazama<s n="vblex"/></l><r>kokeka<s n="vblex"/></r></p></e>
+    <e><p><l>kukodoa<s n="vblex"/></l><r>kokeka<s n="vblex"/></r></p></e>
+    <e><p><l>kuongoza<s n="vblex"/></l><r>kolánga<s n="vblex"/></r></p></e>
+    <e><p><l>kuwaka<s n="vblex"/></l><r>kolánga<s n="vblex"/></r></p></e>
+    <e><p><l>kutanguda<s n="vblex"/></l><r>kolánga<s n="vblex"/></r></p></e>
+    <e><p><l>kupita<s n="vblex"/></l><r>kolánga<s n="vblex"/></r></p></e>
+    <e><p><l>kufutuka<s n="vblex"/></l><r>kolánga<s n="vblex"/></r></p></e>
+    <e><p><l>kukasirika<s n="vblex"/></l><r>kolánga<s n="vblex"/></r></p></e>
+    <e><p><l>kupona<s n="vblex"/></l><r>kolánga<s n="vblex"/></r></p></e>
+    <e><p><l>kushinda<s n="vblex"/></l><r>kolánga<s n="vblex"/></r></p></e>
+    <e><p><l>kupita<s n="vblex"/></l><r>kolánga<s n="vblex"/></r></p></e>
+    <e><p><l>kufifa<s n="vblex"/></l><r>kolánga<s n="vblex"/></r></p></e>
+    <e><p><l>kugetinto<s n="vblex"/></l><r>kolánga<s n="vblex"/></r></p></e>
+    <e><p><l>kutoka<s n="vblex"/></l><r>kolánga<s n="vblex"/></r></p></e>
+    <e><p><l>kuokoka<s n="vblex"/></l><r>kolánga<s n="vblex"/></r></p></e>
+    <e><p><l>kutoa<s n="vblex"/></l><r>kopɛ́sa<s n="vblex"/></r></p></e>
+    <e><p><l>kulipa<s n="vblex"/></l><r>kopɛ́sa<s n="vblex"/></r></p></e>
+    <e><p><l>kujazt<s n="vblex"/></l><r>kopɛ́sa<s n="vblex"/></r></p></e>
+    <e><p><l>kujalt<s n="vblex"/></l><r>kopɛ́sa<s n="vblex"/></r></p></e>
+    <e><p><l>kusalimisha<s n="vblex"/></l><r>kopɛ́sa<s n="vblex"/></r></p></e>
+    <e><p><l>kuwekea<s n="vblex"/></l><r>kopɛ́sa<s n="vblex"/></r></p></e>
+    <e><p><l>kufukuza<s n="vblex"/></l><r>kokúmisa<s n="vblex"/></r></p></e>
+    <e><p><l>kusifu<s n="vblex"/></l><r>kokúmisa<s n="vblex"/></r></p></e>
+    <e><p><l>kujalia<s n="vblex"/></l><r>koyókela<s n="vblex"/></r></p></e>
+    <e><p><l>kurusuku<s n="vblex"/></l><r>koyókela<s n="vblex"/></r></p></e>
+    <e><p><l>kutoa<s n="vblex"/></l><r>koyókela<s n="vblex"/></r></p></e>
+    <e><p><l>kurithia<s n="vblex"/></l><r>koyókela<s n="vblex"/></r></p></e>
+    <e><p><l>kuachia<s n="vblex"/></l><r>koyókela<s n="vblex"/></r></p></e>
+    <e><p><l>kuskiwa<s n="vblex"/></l><r>koyókela<s n="vblex"/></r></p></e>
+    <e><p><l>kutjapokuwa<s n="vblex"/></l><r>koyókela<s n="vblex"/></r></p></e>
+    <e><p><l>kushika<s n="vblex"/></l><r>kokamata<s n="vblex"/></r></p></e>
+    <e><p><l>kucheka<s n="vblex"/></l><r>kotɔkɔ<s n="vblex"/></r></p></e>
+    <e><p><l>kusaga<s n="vblex"/></l><r>kotɔkɔ<s n="vblex"/></r></p></e>
+    <e><p><l>kupapasa<s n="vblex"/></l><r>komɔ́mo<s n="vblex"/></r></p></e>
+    <e><p><l>kusttastta<s n="vblex"/></l><r>komɔ́mo<s n="vblex"/></r></p></e>
+    <e><p><l>kushelabela<s n="vblex"/></l><r>komɔ́mo<s n="vblex"/></r></p></e>
+    <e><p><l>kulinda<s n="vblex"/></l><r>kobátela<s n="vblex"/></r></p></e>
+    <e><p><l>kutunza<s n="vblex"/></l><r>kobátela<s n="vblex"/></r></p></e>
+    <e><p><l>kukiongozi<s n="vblex"/></l><r>kokamba<s n="vblex"/></r></p></e>
+    <e><p><l>kuongoza<s n="vblex"/></l><r>kokamba<s n="vblex"/></r></p></e>
+    <e><p><l>kuhailstones<s n="vblex"/></l><r>kobélela<s n="vblex"/></r></p></e>
+    <e><p><l>kuhailstorm<s n="vblex"/></l><r>kobélela<s n="vblex"/></r></p></e>
+    <e><p><l>kusita<s n="vblex"/></l><r>kotelema<s n="vblex"/></r></p></e>
+    <e><p><l>kuuthi<s n="vblex"/></l><r>konyɔ́kɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kusumbua<s n="vblex"/></l><r>konyɔ́kɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kuchokoza<s n="vblex"/></l><r>konyɔ́kɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kuchukia<s n="vblex"/></l><r>koyina<s n="vblex"/></r></p></e>
+    <e><p><l>kukokota<s n="vblex"/></l><r>kobénda<s n="vblex"/></r></p></e>
+    <e><p><l>kushurutishwa<s n="vblex"/></l><r>kokáta<s n="vblex"/></r></p></e>
+    <e><p><l>kufanyiza<s n="vblex"/></l><r>kokáta<s n="vblex"/></r></p></e>
+    <e><p><l>kuesha<s n="vblex"/></l><r>kokáta<s n="vblex"/></r></p></e>
+    <e><p><l>kutsha<s n="vblex"/></l><r>kokáta<s n="vblex"/></r></p></e>
+    <e><p><l>kusikia<s n="vblex"/></l><r>koyóka<s n="vblex"/></r></p></e>
+    <e><p><l>kujoto<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+    <e><p><l>kuhari<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+    <e><p><l>kughathabu<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+    <e><p><l>kuukalt<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+    <e><p><l>kusamu<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+    <e><p><l>kushindo<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+    <e><p><l>kusukuma<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+    <e><p><l>kusayidia<s n="vblex"/></l><r>kosímbísa<s n="vblex"/></r></p></e>
+    <e><p><l>kuauni<s n="vblex"/></l><r>kosímbísa<s n="vblex"/></r></p></e>
+    <e><p><l>kusiika<s n="vblex"/></l><r>kosimba<s n="vblex"/></r></p></e>
+    <e><p><l>kuwumilia<s n="vblex"/></l><r>kosimba<s n="vblex"/></r></p></e>
+    <e><p><l>kutosha<s n="vblex"/></l><r>kosimba<s n="vblex"/></r></p></e>
+    <e><p><l>kuslahimili<s n="vblex"/></l><r>kosimba<s n="vblex"/></r></p></e>
+    <e><p><l>kuheshimu<s n="vblex"/></l><r>kokúmisa<s n="vblex"/></r></p></e>
+    <e><p><l>kujali<s n="vblex"/></l><r>kokúmisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutukuza<s n="vblex"/></l><r>kokúmisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutaraji<s n="vblex"/></l><r>kolíkia<s n="vblex"/></r></p></e>
+    <e><p><l>kutaraja<s n="vblex"/></l><r>kolíkia<s n="vblex"/></r></p></e>
+    <e><p><l>kukweza<s n="vblex"/></l><r>kosɔ́kía<s n="vblex"/></r></p></e>
+    <e><p><l>kufethehesha<s n="vblex"/></l><r>kosɔ́kía<s n="vblex"/></r></p></e>
+    <e><p><l>kuwinda<s n="vblex"/></l><r>kobéngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kusthi<s n="vblex"/></l><r>kobɔ́ndɛla<s n="vblex"/></r></p></e>
+    <e><p><l>kuongoza<s n="vblex"/></l><r>kobɔ́nga<s n="vblex"/></r></p></e>
+    <e><p><l>kufundisha<s n="vblex"/></l><r>kobɔ́nga<s n="vblex"/></r></p></e>
+    <e><p><l>kutengeneza<s n="vblex"/></l><r>kobɔ́nga<s n="vblex"/></r></p></e>
+    <e><p><l>kufanyiza<s n="vblex"/></l><r>kobɔ́nga<s n="vblex"/></r></p></e>
+    <e><p><l>kusitawisha<s n="vblex"/></l><r>kobɔ́nga<s n="vblex"/></r></p></e>
+    <e><p><l>kuongoka<s n="vblex"/></l><r>kobɔ́nga<s n="vblex"/></r></p></e>
+    <e><p><l>kustat<s n="vblex"/></l><r>kobɔ́nga<s n="vblex"/></r></p></e>
+    <e><p><l>kutumzawakati<s n="vblex"/></l><r>kobɔ́nga<s n="vblex"/></r></p></e>
+    <e><p><l>kuchuma<s n="vblex"/></l><r>kobɔ́nga<s n="vblex"/></r></p></e>
+    <e><p><l>kukomboa<s n="vblex"/></l><r>kofúta<s n="vblex"/></r></p></e>
+    <e><p><l>kumaongozt<s n="vblex"/></l><r>kopambola<s n="vblex"/></r></p></e>
+    <e><p><l>kunguvu<s n="vblex"/></l><r>kopambola<s n="vblex"/></r></p></e>
+    <e><p><l>kujina<s n="vblex"/></l><r>kopambola<s n="vblex"/></r></p></e>
+    <e><p><l>kuushawishi<s n="vblex"/></l><r>kopambola<s n="vblex"/></r></p></e>
+    <e><p><l>kuwula<s n="vblex"/></l><r>kopambola<s n="vblex"/></r></p></e>
+    <e><p><l>kuongoza<s n="vblex"/></l><r>kopambola<s n="vblex"/></r></p></e>
+    <e><p><l>kurudi<s n="vblex"/></l><r>kopambola<s n="vblex"/></r></p></e>
+    <e><p><l>kushawishi<s n="vblex"/></l><r>kopambola<s n="vblex"/></r></p></e>
+    <e><p><l>kujuvya<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kuarifu<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kunimeambiwa<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kutukana<s n="vblex"/></l><r>kofínga<s n="vblex"/></r></p></e>
+    <e><p><l>kufithulika<s n="vblex"/></l><r>kofínga<s n="vblex"/></r></p></e>
+    <e><p><l>kufasiri<s n="vblex"/></l><r>kolimbola<s n="vblex"/></r></p></e>
+    <e><p><l>kufafanisha<s n="vblex"/></l><r>kolimbola<s n="vblex"/></r></p></e>
+    <e><p><l>kuelezamaana<s n="vblex"/></l><r>kolimbola<s n="vblex"/></r></p></e>
+    <e><p><l>kuththirisha<s n="vblex"/></l><r>kolimbola<s n="vblex"/></r></p></e>
+    <e><p><l>kuuliza<s n="vblex"/></l><r>kotúna<s n="vblex"/></r></p></e>
+    <e><p><l>kuhoji<s n="vblex"/></l><r>kotúna<s n="vblex"/></r></p></e>
+    <e><p><l>kutafutiahabari<s n="vblex"/></l><r>kotúna<s n="vblex"/></r></p></e>
+    <e><p><l>kutisha<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuogofya<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kushinda<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kusua<s n="vblex"/></l><r>kokɛla<s n="vblex"/></r></p></e>
+    <e><p><l>kufunga<s n="vblex"/></l><r>kokɛla<s n="vblex"/></r></p></e>
+    <e><p><l>kubuni<s n="vblex"/></l><r>kokɛla<s n="vblex"/></r></p></e>
+    <e><p><l>kuvumbua<s n="vblex"/></l><r>kokɛla<s n="vblex"/></r></p></e>
+    <e><p><l>kuzoa<s n="vblex"/></l><r>kobimisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuzoka<s n="vblex"/></l><r>kobimisa<s n="vblex"/></r></p></e>
+    <e><p><l>kukutoka<s n="vblex"/></l><r>kobimisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuunga<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kuunganisha<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kukutana<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kupakana<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kuchanganyika<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kujitiakatika<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kushendana<s n="vblex"/></l><r>kosangela<s n="vblex"/></r></p></e>
+    <e><p><l>kuthihaki<s n="vblex"/></l><r>kosɛkisa<s n="vblex"/></r></p></e>
+    <e><p><l>kufisha<s n="vblex"/></l><r>koboma<s n="vblex"/></r></p></e>
+    <e><p><l>kuvunja<s n="vblex"/></l><r>koboma<s n="vblex"/></r></p></e>
+    <e><p><l>kugonga<s n="vblex"/></l><r>kobɛ́tɛlɛ<s n="vblex"/></r></p></e>
+    <e><p><l>kubisha<s n="vblex"/></l><r>kobɛ́tɛlɛ<s n="vblex"/></r></p></e>
+    <e><p><l>kupiga<s n="vblex"/></l><r>kobɛ́tɛlɛ<s n="vblex"/></r></p></e>
+    <e><p><l>kujua<s n="vblex"/></l><r>koyébana<s n="vblex"/></r></p></e>
+    <e><p><l>kufahamu<s n="vblex"/></l><r>koyébana<s n="vblex"/></r></p></e>
+    <e><p><l>kutambua<s n="vblex"/></l><r>koyébana<s n="vblex"/></r></p></e>
+    <e><p><l>kuendelea<s n="vblex"/></l><r>kolámbola<s n="vblex"/></r></p></e>
+    <e><p><l>kuishi<s n="vblex"/></l><r>kolámbola<s n="vblex"/></r></p></e>
+    <e><p><l>kudumu<s n="vblex"/></l><r>kolámbola<s n="vblex"/></r></p></e>
+    <e><p><l>kucheza<s n="vblex"/></l><r>kosɛka<s n="vblex"/></r></p></e>
+    <e><p><l>kufurahi<s n="vblex"/></l><r>kosɛka<s n="vblex"/></r></p></e>
+    <e><p><l>kucheka<s n="vblex"/></l><r>kosɛka<s n="vblex"/></r></p></e>
+    <e><p><l>kuthihakt<s n="vblex"/></l><r>kosɛka<s n="vblex"/></r></p></e>
+    <e><p><l>kuthardu<s n="vblex"/></l><r>kosɛka<s n="vblex"/></r></p></e>
+    <e><p><l>kuweka<s n="vblex"/></l><r>kosakana<s n="vblex"/></r></p></e>
+    <e><p><l>kutanda<s n="vblex"/></l><r>kopalangana<s n="vblex"/></r></p></e>
+    <e><p><l>kutaga<s n="vblex"/></l><r>kosakana<s n="vblex"/></r></p></e>
+    <e><p><l>kuongoza<s n="vblex"/></l><r>kokamba<s n="vblex"/></r></p></e>
+    <e><p><l>kupeleka<s n="vblex"/></l><r>kokamba<s n="vblex"/></r></p></e>
+    <e><p><l>kusimamta<s n="vblex"/></l><r>kokamba<s n="vblex"/></r></p></e>
+    <e><p><l>kuenenda<s n="vblex"/></l><r>kokamba<s n="vblex"/></r></p></e>
+    <e><p><l>kuishi<s n="vblex"/></l><r>kokamba<s n="vblex"/></r></p></e>
+    <e><p><l>kutnalekea<s n="vblex"/></l><r>kokamba<s n="vblex"/></r></p></e>
+    <e><p><l>kupoteza<s n="vblex"/></l><r>kokamba<s n="vblex"/></r></p></e>
+    <e><p><l>kuwelekezo<s n="vblex"/></l><r>kokamba<s n="vblex"/></r></p></e>
+    <e><p><l>kuuwezo<s n="vblex"/></l><r>kokamba<s n="vblex"/></r></p></e>
+    <e><p><l>kuembamba<s n="vblex"/></l><r>kopɛ́tɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kugofu<s n="vblex"/></l><r>kopɛ́tɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kuleanon<s n="vblex"/></l><r>kopɛ́tɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kuagainst<s n="vblex"/></l><r>kopɛ́tɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kuegemea<s n="vblex"/></l><r>kopɛ́tɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kutegemea<s n="vblex"/></l><r>kopɛ́tɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kutowards<s n="vblex"/></l><r>kopɛ́tɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kulekea<s n="vblex"/></l><r>kopɛ́tɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kukunratht<s n="vblex"/></l><r>kopasola<s n="vblex"/></r></p></e>
+    <e><p><l>kusimillah<s n="vblex"/></l><r>kopasola<s n="vblex"/></r></p></e>
+    <e><p><l>kujihathari<s n="vblex"/></l><r>kopasola<s n="vblex"/></r></p></e>
+    <e><p><l>kuacha<s n="vblex"/></l><r>kopasola<s n="vblex"/></r></p></e>
+    <e><p><l>kuisha<s n="vblex"/></l><r>kopasola<s n="vblex"/></r></p></e>
+    <e><p><l>kuazima<s n="vblex"/></l><r>kodéfisa<s n="vblex"/></r></p></e>
+    <e><p><l>kukopesha<s n="vblex"/></l><r>kodéfisa<s n="vblex"/></r></p></e>
+    <e><p><l>kunyosha<s n="vblex"/></l><r>kokólisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuacha<s n="vblex"/></l><r>kosílisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuruhusu<s n="vblex"/></l><r>kosílisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuajirisha<s n="vblex"/></l><r>kosílisa<s n="vblex"/></r></p></e>
+    <e><p><l>kukodisha<s n="vblex"/></l><r>kosílisa<s n="vblex"/></r></p></e>
+    <e><p><l>kucheo<s n="vblex"/></l><r>kosémbola<s n="vblex"/></r></p></e>
+    <e><p><l>kufungua<s n="vblex"/></l><r>kosikola<s n="vblex"/></r></p></e>
+    <e><p><l>kuachilia<s n="vblex"/></l><r>kosikola<s n="vblex"/></r></p></e>
+    <e><p><l>kutoaulumwmant<s n="vblex"/></l><r>kosikola<s n="vblex"/></r></p></e>
+    <e><p><l>kuanya<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+    <e><p><l>kukanisha<s n="vblex"/></l><r>kokósa<s n="vblex"/></r></p></e>
+    <e><p><l>kuinya<s n="vblex"/></l><r>kotómbola<s n="vblex"/></r></p></e>
+    <e><p><l>kupandisha<s n="vblex"/></l><r>kotómbola<s n="vblex"/></r></p></e>
+    <e><p><l>kupasa<s n="vblex"/></l><r>kotómbola<s n="vblex"/></r></p></e>
+    <e><p><l>kupaliza<s n="vblex"/></l><r>kotómbola<s n="vblex"/></r></p></e>
+    <e><p><l>kukweka<s n="vblex"/></l><r>kotómbola<s n="vblex"/></r></p></e>
+    <e><p><l>kunyanyua<s n="vblex"/></l><r>kotómbola<s n="vblex"/></r></p></e>
+    <e><p><l>kutengeneza<s n="vblex"/></l><r>kotómbola<s n="vblex"/></r></p></e>
+    <e><p><l>kukiasi<s n="vblex"/></l><r>kosúka<s n="vblex"/></r></p></e>
+    <e><p><l>kukipeo<s n="vblex"/></l><r>kosúka<s n="vblex"/></r></p></e>
+    <e><p><l>kufunga<s n="vblex"/></l><r>kosúka<s n="vblex"/></r></p></e>
+    <e><p><l>kukatiza<s n="vblex"/></l><r>kosúka<s n="vblex"/></r></p></e>
+    <e><p><l>kuwekeampaka<s n="vblex"/></l><r>kosúka<s n="vblex"/></r></p></e>
+    <e><p><l>kusikia<s n="vblex"/></l><r>koyóka<s n="vblex"/></r></p></e>
+    <e><p><l>kuzshz<s n="vblex"/></l><r>kofánda<s n="vblex"/></r></p></e>
+    <e><p><l>kukaa<s n="vblex"/></l><r>kofánda<s n="vblex"/></r></p></e>
+    <e><p><l>kuponea<s n="vblex"/></l><r>kofánda<s n="vblex"/></r></p></e>
+    <e><p><l>kuvumiliaa<s n="vblex"/></l><r>kofánda<s n="vblex"/></r></p></e>
+    <e><p><l>kufazama<s n="vblex"/></l><r>kotála<s n="vblex"/></r></p></e>
+    <e><p><l>kuangalia<s n="vblex"/></l><r>kotála<s n="vblex"/></r></p></e>
+    <e><p><l>kuelekea<s n="vblex"/></l><r>kotála<s n="vblex"/></r></p></e>
+    <e><p><l>kulegevu<s n="vblex"/></l><r>kolútola<s n="vblex"/></r></p></e>
+    <e><p><l>kulioachwa<s n="vblex"/></l><r>kolútola<s n="vblex"/></r></p></e>
+    <e><p><l>kubayaloosen<s n="vblex"/></l><r>kolútola<s n="vblex"/></r></p></e>
+    <e><p><l>kufungua<s n="vblex"/></l><r>kolútola<s n="vblex"/></r></p></e>
+    <e><p><l>kufungulia<s n="vblex"/></l><r>kolútola<s n="vblex"/></r></p></e>
+    <e><p><l>kupotewana<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutwaliwa<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kupoteza<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuangamiza<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuvza<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kulegea<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kufanya<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>
+    <e><p><l>kuchora<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>
+    <e><p><l>kuesha<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>
+    <e><p><l>kutsha<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>
+    <e><p><l>kusha<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>
+    <e><p><l>kuheshimu<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>
+    <e><p><l>kutupa<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>
+    <e><p><l>kupoteza<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>
+    <e><p><l>kumsaada<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>
+    <e><p><l>kumakeat<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>
+    <e><p><l>kumuaji<s n="vblex"/></l><r>komanyolela<s n="vblex"/></r></p></e>
+    <e><p><l>kutokea<s n="vblex"/></l><r>kokúkúla<s n="vblex"/></r></p></e>
+    <e><p><l>kufanyiza<s n="vblex"/></l><r>kosála<s n="vblex"/></r></p></e>
+    <e><p><l>kupevu<s n="vblex"/></l><r>kokóla<s n="vblex"/></r></p></e>
+    <e><p><l>kukamili<s n="vblex"/></l><r>kokóla<s n="vblex"/></r></p></e>
+    <e><p><l>kupevusha<s n="vblex"/></l><r>kokóla<s n="vblex"/></r></p></e>
+    <e><p><l>kukamilisha<s n="vblex"/></l><r>kokóla<s n="vblex"/></r></p></e>
+    <e><p><l>kuweza<s n="vblex"/></l><r>koyímayima<s n="vblex"/></r></p></e>
+    <e><p><l>kufikiri<s n="vblex"/></l><r>komanyolela<s n="vblex"/></r></p></e>
+    <e><p><l>kunia<s n="vblex"/></l><r>komanyolela<s n="vblex"/></r></p></e>
+    <e><p><l>kutaka<s n="vblex"/></l><r>komanyolela<s n="vblex"/></r></p></e>
+    <e><p><l>kukutana<s n="vblex"/></l><r>kosánga<s n="vblex"/></r></p></e>
+    <e><p><l>kukusanyika<s n="vblex"/></l><r>kosánga<s n="vblex"/></r></p></e>
+    <e><p><l>kupata<s n="vblex"/></l><r>kosánga<s n="vblex"/></r></p></e>
+    <e><p><l>kuakustahili<s n="vblex"/></l><r>kosánga<s n="vblex"/></r></p></e>
+    <e><p><l>kuchovya<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+    <e><p><l>kuzamtsha<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+    <e><p><l>kuoneamajuto<s n="vblex"/></l><r>kozánga<s n="vblex"/></r></p></e>
+    <e><p><l>kustkitthia<s n="vblex"/></l><r>kozánga<s n="vblex"/></r></p></e>
+    <e><p><l>kuthihaki<s n="vblex"/></l><r>kosisola<s n="vblex"/></r></p></e>
+    <e><p><l>kujipatiaote<s n="vblex"/></l><r>kokónza<s n="vblex"/></r></p></e>
+    <e><p><l>kubishania<s n="vblex"/></l><r>kosémbola<s n="vblex"/></r></p></e>
+    <e><p><l>kugombanéa<s n="vblex"/></l><r>kosémbola<s n="vblex"/></r></p></e>
+    <e><p><l>kupanda<s n="vblex"/></l><r>kobákola<s n="vblex"/></r></p></e>
+    <e><p><l>kukwea<s n="vblex"/></l><r>kobákola<s n="vblex"/></r></p></e>
+    <e><p><l>kuinuka<s n="vblex"/></l><r>kobákola<s n="vblex"/></r></p></e>
+    <e><p><l>kufikajuu<s n="vblex"/></l><r>kobákola<s n="vblex"/></r></p></e>
+    <e><p><l>kutengeneza<s n="vblex"/></l><r>kobákola<s n="vblex"/></r></p></e>
+    <e><p><l>kuendesha<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuendeza<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
+    <e><p><l>kusogeza<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
+    <e><p><l>kujongeza<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
+    <e><p><l>kulikisa<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
+    <e><p><l>kusukuma<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuhamisha<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuondoa<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
+    <e><p><l>kupeleka<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
+    <e><p><l>kushawishi<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuhusunisha<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
+    <e><p><l>kusogea<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutikisika<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
+    <e><p><l>kujongeka<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
+    <e><p><l>kucheza<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
+    <e><p><l>kujimudu<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
+    <e><p><l>kufikiri<s n="vblex"/></l><r>kosɛkisa<s n="vblex"/></r></p></e>
+    <e><p><l>kushari<s n="vblex"/></l><r>kozala<s n="vblex"/></r></p></e>
+    <e><p><l>kulazimu<s n="vblex"/></l><r>kozala<s n="vblex"/></r></p></e>
+    <e><p><l>kusimulia<s n="vblex"/></l><r>kosólola<s n="vblex"/></r></p></e>
+    <e><p><l>kuhubiri<s n="vblex"/></l><r>kosólola<s n="vblex"/></r></p></e>
+    <e><p><l>kunasa<s n="vblex"/></l><r>konetola<s n="vblex"/></r></p></e>
+    <e><p><l>kufaidi<s n="vblex"/></l><r>konetola<s n="vblex"/></r></p></e>
+    <e><p><l>kulisha<s n="vblex"/></l><r>kobɔkɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kuchunga<s n="vblex"/></l><r>kobɔkɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kulea<s n="vblex"/></l><r>kobɔkɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kuazimu<s n="vblex"/></l><r>kobɔkɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kusikia<s n="vblex"/></l><r>kotósa<s n="vblex"/></r></p></e>
+    <e><p><l>kukwaa<s n="vblex"/></l><r>kokónza<s n="vblex"/></r></p></e>
+    <e><p><l>kushika<s n="vblex"/></l><r>kokónza<s n="vblex"/></r></p></e>
+    <e><p><l>kuzoa<s n="vblex"/></l><r>kopɛ́sa<s n="vblex"/></r></p></e>
+    <e><p><l>kujitoa<s n="vblex"/></l><r>kopɛ́sa<s n="vblex"/></r></p></e>
+    <e><p><l>kujitolea<s n="vblex"/></l><r>kopɛ́sa<s n="vblex"/></r></p></e>
+    <e><p><l>kutokea<s n="vblex"/></l><r>kopɛ́sa<s n="vblex"/></r></p></e>
+    <e><p><l>kutukia<s n="vblex"/></l><r>kopɛ́sa<s n="vblex"/></r></p></e>
+    <e><p><l>kuonekana<s n="vblex"/></l><r>kopɛ́sa<s n="vblex"/></r></p></e>
+    <e><p><l>kumaneno<s n="vblex"/></l><r>kopɛ́sa<s n="vblex"/></r></p></e>
+    <e><p><l>kushauri<s n="vblex"/></l><r>kopɛ́sa<s n="vblex"/></r></p></e>
+    <e><p><l>kuahadi<s n="vblex"/></l><r>kopɛ́sa<s n="vblex"/></r></p></e>
+    <e><p><l>kuacha<s n="vblex"/></l><r>kolekisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuruka<s n="vblex"/></l><r>kolekisa<s n="vblex"/></r></p></e>
+    <e><p><l>kupitia<s n="vblex"/></l><r>kolekisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuvuja<s n="vblex"/></l><r>kolútola<s n="vblex"/></r></p></e>
+    <e><p><l>kuwiwa<s n="vblex"/></l><r>kosukola<s n="vblex"/></r></p></e>
+    <e><p><l>kumiliki<s n="vblex"/></l><r>koyébana<s n="vblex"/></r></p></e>
+    <e><p><l>kuhire<s n="vblex"/></l><r>koyébana<s n="vblex"/></r></p></e>
+    <e><p><l>kuenyewe<s n="vblex"/></l><r>koyébana<s n="vblex"/></r></p></e>
+    <e><p><l>kuhalist<s n="vblex"/></l><r>koyébana<s n="vblex"/></r></p></e>
+    <e><p><l>kutuliza<s n="vblex"/></l><r>kobɔ́ndɔ<s n="vblex"/></r></p></e>
+    <e><p><l>kupatantsha<s n="vblex"/></l><r>kobɔ́ndɔ<s n="vblex"/></r></p></e>
+    <e><p><l>kuambua<s n="vblex"/></l><r>kolámba<s n="vblex"/></r></p></e>
+    <e><p><l>kumagawanyiko<s n="vblex"/></l><r>koleka<s n="vblex"/></r></p></e>
+    <e><p><l>kumtengano<s n="vblex"/></l><r>koleka<s n="vblex"/></r></p></e>
+    <e><p><l>kupita<s n="vblex"/></l><r>koleka<s n="vblex"/></r></p></e>
+    <e><p><l>kuenda<s n="vblex"/></l><r>koleka<s n="vblex"/></r></p></e>
+    <e><p><l>kukisimba<s n="vblex"/></l><r>koséba<s n="vblex"/></r></p></e>
+    <e><p><l>kuingia<s n="vblex"/></l><r>kotúbia<s n="vblex"/></r></p></e>
+    <e><p><l>kupenya<s n="vblex"/></l><r>kotúbia<s n="vblex"/></r></p></e>
+    <e><p><l>kuchoma<s n="vblex"/></l><r>kotúbia<s n="vblex"/></r></p></e>
+    <e><p><l>kudumu<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+    <e><p><l>kujikaza<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+    <e><p><l>kushikakazi<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+    <e><p><l>kushawishi<s n="vblex"/></l><r>koyambisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuvuta<s n="vblex"/></l><r>koyambisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuongoza<s n="vblex"/></l><r>koyambisa<s n="vblex"/></r></p></e>
+    <e><p><l>kushurutisha<s n="vblex"/></l><r>koyambisa<s n="vblex"/></r></p></e>
+    <e><p><l>kudonoa<s n="vblex"/></l><r>kolɔkɔta<s n="vblex"/></r></p></e>
+    <e><p><l>kuokota<s n="vblex"/></l><r>kolɔkɔta<s n="vblex"/></r></p></e>
+    <e><p><l>kudondoa<s n="vblex"/></l><r>kolɔkɔta<s n="vblex"/></r></p></e>
+    <e><p><l>kukusanya<s n="vblex"/></l><r>kolɔkɔta<s n="vblex"/></r></p></e>
+    <e><p><l>kunyakua<s n="vblex"/></l><r>kolɔkɔta<s n="vblex"/></r></p></e>
+    <e><p><l>kunyonya<s n="vblex"/></l><r>kolɔkɔta<s n="vblex"/></r></p></e>
+    <e><p><l>kuvumbiiiavita<s n="vblex"/></l><r>kolɔkɔta<s n="vblex"/></r></p></e>
+    <e><p><l>kusimgista<s n="vblex"/></l><r>kolɔkɔta<s n="vblex"/></r></p></e>
+    <e><p><l>kuchongea<s n="vblex"/></l><r>kolɔkɔta<s n="vblex"/></r></p></e>
+    <e><p><l>kusululu<s n="vblex"/></l><r>kolɔkɔta<s n="vblex"/></r></p></e>
+    <e><p><l>kukupingo<s n="vblex"/></l><r>kokapintá<s n="vblex"/></r></p></e>
+    <e><p><l>kuamini<s n="vblex"/></l><r>kokapintá<s n="vblex"/></r></p></e>
+    <e><p><l>kujelea<s n="vblex"/></l><r>kokapintá<s n="vblex"/></r></p></e>
+    <e><p><l>kupanda<s n="vblex"/></l><r>kolóna<s n="vblex"/></r></p></e>
+    <e><p><l>kukaza<s n="vblex"/></l><r>kolóna<s n="vblex"/></r></p></e>
+    <e><p><l>kumche<s n="vblex"/></l><r>kolóna<s n="vblex"/></r></p></e>
+    <e><p><l>kuchipukizi<s n="vblex"/></l><r>kolóna<s n="vblex"/></r></p></e>
+    <e><p><l>kusamani<s n="vblex"/></l><r>kolóna<s n="vblex"/></r></p></e>
+    <e><p><l>kuchokaa<s n="vblex"/></l><r>kolámbola<s n="vblex"/></r></p></e>
+    <e><p><l>kusayidia<s n="vblex"/></l><r>kosakana<s n="vblex"/></r></p></e>
+    <e><p><l>kuomba<s n="vblex"/></l><r>kosámbela<s n="vblex"/></r></p></e>
+    <e><p><l>kuombea<s n="vblex"/></l><r>kosámbela<s n="vblex"/></r></p></e>
+    <e><p><l>kuushupafu<s n="vblex"/></l><r>komuka<s n="vblex"/></r></p></e>
+    <e><p><l>kumoyomgumu<s n="vblex"/></l><r>komuka<s n="vblex"/></r></p></e>
+    <e><p><l>kuushujaa<s n="vblex"/></l><r>komuka<s n="vblex"/></r></p></e>
+    <e><p><l>kushika<s n="vblex"/></l><r>kobánza<s n="vblex"/></r></p></e>
+    <e><p><l>kufulisa<s n="vblex"/></l><r>kobánza<s n="vblex"/></r></p></e>
+    <e><p><l>kutenda<s n="vblex"/></l><r>kobánza<s n="vblex"/></r></p></e>
+    <e><p><l>kusura<s n="vblex"/></l><r>kotálisa<s n="vblex"/></r></p></e>
+    <e><p><l>kufathatsha<s n="vblex"/></l><r>kotálisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuzuia<s n="vblex"/></l><r>kotálisa<s n="vblex"/></r></p></e>
+    <e><p><l>kumiliki<s n="vblex"/></l><r>kobɔtɔlɔ<s n="vblex"/></r></p></e>
+    <e><p><l>kupata<s n="vblex"/></l><r>kobɔtɔlɔ<s n="vblex"/></r></p></e>
+    <e><p><l>kupagawa<s n="vblex"/></l><r>kobɔtɔlɔ<s n="vblex"/></r></p></e>
+    <e><p><l>kumimtna<s n="vblex"/></l><r>kosopa<s n="vblex"/></r></p></e>
+    <e><p><l>kuponda<s n="vblex"/></l><r>komínyola<s n="vblex"/></r></p></e>
+    <e><p><l>kuhamdi<s n="vblex"/></l><r>kokúmisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuomba<s n="vblex"/></l><r>kobɔ́ndɛla<s n="vblex"/></r></p></e>
+    <e><p><l>kutaka<s n="vblex"/></l><r>kobɔ́ndɛla<s n="vblex"/></r></p></e>
+    <e><p><l>kuomba<s n="vblex"/></l><r>kobɔ́ndɛla<s n="vblex"/></r></p></e>
+    <e><p><l>kusalia<s n="vblex"/></l><r>kobɔ́ndɛla<s n="vblex"/></r></p></e>
+    <e><p><l>kutoleadua<s n="vblex"/></l><r>kobɔ́ndɛla<s n="vblex"/></r></p></e>
+    <e><p><l>kuombea<s n="vblex"/></l><r>kobɔ́ndɛla<s n="vblex"/></r></p></e>
+    <e><p><l>kutaka<s n="vblex"/></l><r>kobɔ́ndɛla<s n="vblex"/></r></p></e>
+    <e><p><l>kutabiri<s n="vblex"/></l><r>kolaka<s n="vblex"/></r></p></e>
+    <e><p><l>kubashiri<s n="vblex"/></l><r>kolaka<s n="vblex"/></r></p></e>
+    <e><p><l>kuandaa<s n="vblex"/></l><r>kolámba<s n="vblex"/></r></p></e>
+    <e><p><l>kuzaltili<s n="vblex"/></l><r>kolámba<s n="vblex"/></r></p></e>
+    <e><p><l>kutayari<s n="vblex"/></l><r>kolámba<s n="vblex"/></r></p></e>
+    <e><p><l>kujifanya<s n="vblex"/></l><r>kolimba<s n="vblex"/></r></p></e>
+    <e><p><l>kutaka<s n="vblex"/></l><r>kolimba<s n="vblex"/></r></p></e>
+    <e><p><l>kutamant<s n="vblex"/></l><r>kolimba<s n="vblex"/></r></p></e>
+    <e><p><l>kujidata<s n="vblex"/></l><r>kolimba<s n="vblex"/></r></p></e>
+    <e><p><l>kuzwia<s n="vblex"/></l><r>kopekisa<s n="vblex"/></r></p></e>
+    <e><p><l>kupinga<s n="vblex"/></l><r>kopekisa<s n="vblex"/></r></p></e>
+    <e><p><l>kufusza<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kuazisi<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kupendelea<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kutunzasana<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kueneza<s n="vblex"/></l><r>kosakola<s n="vblex"/></r></p></e>
+    <e><p><l>kuktafasa<s n="vblex"/></l><r>kopekisa<s n="vblex"/></r></p></e>
+    <e><p><l>kugombesa<s n="vblex"/></l><r>kopekisa<s n="vblex"/></r></p></e>
+    <e><p><l>kusuta<s n="vblex"/></l><r>kopekisa<s n="vblex"/></r></p></e>
+    <e><p><l>kurufuku<s n="vblex"/></l><r>kopekisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutunza<s n="vblex"/></l><r>kobátela<s n="vblex"/></r></p></e>
+    <e><p><l>kulinda<s n="vblex"/></l><r>kobátela<s n="vblex"/></r></p></e>
+    <e><p><l>kuponya<s n="vblex"/></l><r>kobátela<s n="vblex"/></r></p></e>
+    <e><p><l>kuthubutisha<s n="vblex"/></l><r>kobɔ́nga<s n="vblex"/></r></p></e>
+    <e><p><l>kushuhudia<s n="vblex"/></l><r>kobɔ́nga<s n="vblex"/></r></p></e>
+    <e><p><l>kubatnisha<s n="vblex"/></l><r>kobɔ́nga<s n="vblex"/></r></p></e>
+    <e><p><l>kukasirisha<s n="vblex"/></l><r>konyɔ́kɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kughairi<s n="vblex"/></l><r>konyɔ́kɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kutosa<s n="vblex"/></l><r>konyɔ́kɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kubainisha<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutangaza<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutoawazt<s n="vblex"/></l><r>kotámbwisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutembesa<s n="vblex"/></l><r>kovímba<s n="vblex"/></r></p></e>
+    <e><p><l>kutakasa<s n="vblex"/></l><r>kopɛ́tɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kusafisha<s n="vblex"/></l><r>kopɛ́tɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kuyakini<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kudadisi<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuacha<s n="vblex"/></l><r>kolongwa<s n="vblex"/></r></p></e>
+    <e><p><l>kuhama<s n="vblex"/></l><r>kolongwa<s n="vblex"/></r></p></e>
+    <e><p><l>kuondolewa<s n="vblex"/></l><r>kolongwa<s n="vblex"/></r></p></e>
+    <e><p><l>kudondoa<s n="vblex"/></l><r>kotúya<s n="vblex"/></r></p></e>
+    <e><p><l>kuonea<s n="vblex"/></l><r>kobúka<s n="vblex"/></r></p></e>
+    <e><p><l>kuuthikamno<s n="vblex"/></l><r>kobúka<s n="vblex"/></r></p></e>
+    <e><p><l>kubundukt<s n="vblex"/></l><r>kobɔ́ngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kumzlima<s n="vblex"/></l><r>kobɔ́ngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutembea<s n="vblex"/></l><r>kobɔ́ngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuandika<s n="vblex"/></l><r>kobɔ́ngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kukadiri<s n="vblex"/></l><r>kobɔ́ngisa<s n="vblex"/></r></p></e>
+    <e><p><l>kudomo<s n="vblex"/></l><r>koyókela<s n="vblex"/></r></p></e>
+    <e><p><l>kumaneno<s n="vblex"/></l><r>koyókela<s n="vblex"/></r></p></e>
+    <e><p><l>kuupuzi<s n="vblex"/></l><r>koyókela<s n="vblex"/></r></p></e>
+    <e><p><l>kudisha<s n="vblex"/></l><r>kowála<s n="vblex"/></r></p></e>
+    <e><p><l>kugonga<s n="vblex"/></l><r>kowála<s n="vblex"/></r></p></e>
+    <e><p><l>kukiasi<s n="vblex"/></l><r>kosólola<s n="vblex"/></r></p></e>
+    <e><p><l>kuhakika<s n="vblex"/></l><r>kosólola<s n="vblex"/></r></p></e>
+    <e><p><l>kupayapaya<s n="vblex"/></l><r>kolingóla<s n="vblex"/></r></p></e>
+    <e><p><l>kupayuka<s n="vblex"/></l><r>kolingóla<s n="vblex"/></r></p></e>
+    <e><p><l>kutatanua<s n="vblex"/></l><r>kolingóla<s n="vblex"/></r></p></e>
+    <e><p><l>kufika<s n="vblex"/></l><r>kolimba<s n="vblex"/></r></p></e>
+    <e><p><l>kufikia<s n="vblex"/></l><r>kolimba<s n="vblex"/></r></p></e>
+    <e><p><l>kupala<s n="vblex"/></l><r>kolimba<s n="vblex"/></r></p></e>
+    <e><p><l>kupatia<s n="vblex"/></l><r>kolimba<s n="vblex"/></r></p></e>
+    <e><p><l>kuinua<s n="vblex"/></l><r>kolimba<s n="vblex"/></r></p></e>
+    <e><p><l>kunguuu<s n="vblex"/></l><r>kolimba<s n="vblex"/></r></p></e>
+    <e><p><l>kusoma<s n="vblex"/></l><r>kopalangana<s n="vblex"/></r></p></e>
+    <e><p><l>kupokea<s n="vblex"/></l><r>kokamata<s n="vblex"/></r></p></e>
+    <e><p><l>kuletewa<s n="vblex"/></l><r>kokamata<s n="vblex"/></r></p></e>
+    <e><p><l>kukaribisha<s n="vblex"/></l><r>kokamata<s n="vblex"/></r></p></e>
+    <e><p><l>kupewa<s n="vblex"/></l><r>kokamata<s n="vblex"/></r></p></e>
+    <e><p><l>kuangalia<s n="vblex"/></l><r>kotánga<s n="vblex"/></r></p></e>
+    <e><p><l>kujihathari<s n="vblex"/></l><r>kotánga<s n="vblex"/></r></p></e>
+    <e><p><l>kupatanguvu<s n="vblex"/></l><r>kotákola<s n="vblex"/></r></p></e>
+    <e><p><l>kunyima<s n="vblex"/></l><r>kobɔ́íya<s n="vblex"/></r></p></e>
+    <e><p><l>kukania<s n="vblex"/></l><r>kobɔ́íya<s n="vblex"/></r></p></e>
+    <e><p><l>kumatakato<s n="vblex"/></l><r>kobɔ́íya<s n="vblex"/></r></p></e>
+    <e><p><l>kuhafifu<s n="vblex"/></l><r>kobɔ́íya<s n="vblex"/></r></p></e>
+    <e><p><l>kuipa<s n="vblex"/></l><r>kofúta<s n="vblex"/></r></p></e>
+    <e><p><l>kuthoofisha<s n="vblex"/></l><r>kolútola<s n="vblex"/></r></p></e>
+    <e><p><l>kukumbuka<s n="vblex"/></l><r>kobánza<s n="vblex"/></r></p></e>
+    <e><p><l>kuondoa<s n="vblex"/></l><r>kolongola<s n="vblex"/></r></p></e>
+    <e><p><l>kuondosha<s n="vblex"/></l><r>kolongola<s n="vblex"/></r></p></e>
+    <e><p><l>kutenga<s n="vblex"/></l><r>kolongola<s n="vblex"/></r></p></e>
+    <e><p><l>kujinyima<s n="vblex"/></l><r>koyanginya<s n="vblex"/></r></p></e>
+    <e><p><l>kuzuia<s n="vblex"/></l><r>kosímbísa<s n="vblex"/></r></p></e>
+    <e><p><l>kushika<s n="vblex"/></l><r>kosímbísa<s n="vblex"/></r></p></e>
+    <e><p><l>kurudi<s n="vblex"/></l><r>kobutwisa<s n="vblex"/></r></p></e>
+    <e><p><l>kurejea<s n="vblex"/></l><r>kobutwisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuokoa<s n="vblex"/></l><r>kokwákíya<s n="vblex"/></r></p></e>
+    <e><p><l>kupona<s n="vblex"/></l><r>kokwákíya<s n="vblex"/></r></p></e>
+    <e><p><l>kufamba<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kupasua<s n="vblex"/></l><r>kopúlola<s n="vblex"/></r></p></e>
+    <e><p><l>kurarua<s n="vblex"/></l><r>kopúlola<s n="vblex"/></r></p></e>
+    <e><p><l>kukata<s n="vblex"/></l><r>kopúlola<s n="vblex"/></r></p></e>
+    <e><p><l>kutatua<s n="vblex"/></l><r>kopúlola<s n="vblex"/></r></p></e>
+    <e><p><l>kuinuka<s n="vblex"/></l><r>kokundwa<s n="vblex"/></r></p></e>
+    <e><p><l>kupanda<s n="vblex"/></l><r>kokundwa<s n="vblex"/></r></p></e>
+    <e><p><l>kuosesha<s n="vblex"/></l><r>kobátela<s n="vblex"/></r></p></e>
+    <e><p><l>kuzengeneza<s n="vblex"/></l><r>kokúla<s n="vblex"/></r></p></e>
+    <e><p><l>kuzimilisa<s n="vblex"/></l><r>kokúla<s n="vblex"/></r></p></e>
+    <e><p><l>kushidda<s n="vblex"/></l><r>kokúla<s n="vblex"/></r></p></e>
+    <e><p><l>kuupingamist<s n="vblex"/></l><r>kokúla<s n="vblex"/></r></p></e>
+    <e><p><l>kuendambio<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
+    <e><p><l>kukimbia<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
+    <e><p><l>kupita<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
+    <e><p><l>kutoka<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
+    <e><p><l>kupitisha<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
+    <e><p><l>kuingiza<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
+    <e><p><l>kumstart<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
+    <e><p><l>kutaka<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
+    <e><p><l>kugonga<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
+    <e><p><l>kuforoka<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
+    <e><p><l>kukimbia<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
+    <e><p><l>kuzngia<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
+    <e><p><l>kumajani<s n="vblex"/></l><r>kolimwa<s n="vblex"/></r></p></e>
+    <e><p><l>kujaliza<s n="vblex"/></l><r>kotónda<s n="vblex"/></r></p></e>
+    <e><p><l>kuokoa<s n="vblex"/></l><r>kobumba<s n="vblex"/></r></p></e>
+    <e><p><l>kuunguza<s n="vblex"/></l><r>kojíka<s n="vblex"/></r></p></e>
+    <e><p><l>kuchoma<s n="vblex"/></l><r>kojíka<s n="vblex"/></r></p></e>
+    <e><p><l>kuslusha<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuogofya<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kufathaa<s n="vblex"/></l><r>kobángisa<s n="vblex"/></r></p></e>
+    <e><p><l>kufawanya<s n="vblex"/></l><r>kopanza<s n="vblex"/></r></p></e>
+    <e><p><l>kunyunyisa<s n="vblex"/></l><r>kopanza<s n="vblex"/></r></p></e>
+    <e><p><l>kuktaripia<s n="vblex"/></l><r>kopalela<s n="vblex"/></r></p></e>
+    <e><p><l>kukemea<s n="vblex"/></l><r>kopalela<s n="vblex"/></r></p></e>
+    <e><p><l>kupekua<s n="vblex"/></l><r>koluka<s n="vblex"/></r></p></e>
+    <e><p><l>kupeleleza<s n="vblex"/></l><r>koluka<s n="vblex"/></r></p></e>
+    <e><p><l>kuzafuta<s n="vblex"/></l><r>koluka<s n="vblex"/></r></p></e>
+    <e><p><l>kuupelelesi<s n="vblex"/></l><r>koluka<s n="vblex"/></r></p></e>
+    <e><p><l>kuona<s n="vblex"/></l><r>kokwéya<s n="vblex"/></r></p></e>
+    <e><p><l>kutambua<s n="vblex"/></l><r>kokwéya<s n="vblex"/></r></p></e>
+    <e><p><l>kuuza<s n="vblex"/></l><r>kotɛ́ka<s n="vblex"/></r></p></e>
+    <e><p><l>kufeleka<s n="vblex"/></l><r>kotínda<s n="vblex"/></r></p></e>
+    <e><p><l>kutuma<s n="vblex"/></l><r>kotínda<s n="vblex"/></r></p></e>
+    <e><p><l>kutupa<s n="vblex"/></l><r>kotínda<s n="vblex"/></r></p></e>
+    <e><p><l>kusukuma<s n="vblex"/></l><r>kotínda<s n="vblex"/></r></p></e>
+    <e><p><l>kugawa<s n="vblex"/></l><r>kobɔ́nda<s n="vblex"/></r></p></e>
+    <e><p><l>kufarikisha<s n="vblex"/></l><r>kobɔ́nda<s n="vblex"/></r></p></e>
+    <e><p><l>kubagua<s n="vblex"/></l><r>kobɔ́nda<s n="vblex"/></r></p></e>
+    <e><p><l>kukala<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+    <e><p><l>kulenga<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+    <e><p><l>kutikisa<s n="vblex"/></l><r>konyangisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutetemesha<s n="vblex"/></l><r>konyangisa<s n="vblex"/></r></p></e>
+    <e><p><l>kumoa<s n="vblex"/></l><r>koséba<s n="vblex"/></r></p></e>
+    <e><p><l>kuchongoa<s n="vblex"/></l><r>koséba<s n="vblex"/></r></p></e>
+    <e><p><l>kumwaga<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kukibanda<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kuguta<s n="vblex"/></l><r>kongánga<s n="vblex"/></r></p></e>
+    <e><p><l>kulia<s n="vblex"/></l><r>kongánga<s n="vblex"/></r></p></e>
+    <e><p><l>kupasasautt<s n="vblex"/></l><r>kongánga<s n="vblex"/></r></p></e>
+    <e><p><l>kuepuka<s n="vblex"/></l><r>kopɛngɔá<s n="vblex"/></r></p></e>
+    <e><p><l>kuhatiya<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+    <e><p><l>kuuhalifu<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+    <e><p><l>kukosa<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+    <e><p><l>kuuovu<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+    <e><p><l>kuimba<s n="vblex"/></l><r>koyémba<s n="vblex"/></r></p></e>
+    <e><p><l>kulia<s n="vblex"/></l><r>koyémba<s n="vblex"/></r></p></e>
+    <e><p><l>kusamisha<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+    <e><p><l>kutosa<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+    <e><p><l>kudtdimisha<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+    <e><p><l>kuzama<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+    <e><p><l>kutota<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+    <e><p><l>kudidimia<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+    <e><p><l>kuzizimia<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+    <e><p><l>kupunguka<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+    <e><p><l>kuchakaa<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+    <e><p><l>kupenya<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+    <e><p><l>kuficha<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+    <e><p><l>kupunguza<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+    <e><p><l>kushuka<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+    <e><p><l>kukett<s n="vblex"/></l><r>komɔ́nisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuvuka<s n="vblex"/></l><r>kopombwa<s n="vblex"/></r></p></e>
+    <e><p><l>kupitia<s n="vblex"/></l><r>kopombwa<s n="vblex"/></r></p></e>
+    <e><p><l>kuuvundu<s n="vblex"/></l><r>kolumba<s n="vblex"/></r></p></e>
+    <e><p><l>kusawa<s n="vblex"/></l><r>kosémbola<s n="vblex"/></r></p></e>
+    <e><p><l>kutaratibu<s n="vblex"/></l><r>kosémbola<s n="vblex"/></r></p></e>
+    <e><p><l>kufandaza<s n="vblex"/></l><r>kosémbola<s n="vblex"/></r></p></e>
+    <e><p><l>kulatnisha<s n="vblex"/></l><r>kosémbola<s n="vblex"/></r></p></e>
+    <e><p><l>kunyakua<s n="vblex"/></l><r>kobótola<s n="vblex"/></r></p></e>
+    <e><p><l>kuchopoa<s n="vblex"/></l><r>kobótola<s n="vblex"/></r></p></e>
+    <e><p><l>kupokonya<s n="vblex"/></l><r>kobótola<s n="vblex"/></r></p></e>
+    <e><p><l>kujipatia<s n="vblex"/></l><r>kobótola<s n="vblex"/></r></p></e>
+    <e><p><l>kuchovya<s n="vblex"/></l><r>kopɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kulowana<s n="vblex"/></l><r>kopɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kuloweka<s n="vblex"/></l><r>kopɔla<s n="vblex"/></r></p></e>
+    <e><p><l>kupunguza<s n="vblex"/></l><r>kolɛmbisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuelesa<s n="vblex"/></l><r>kolímbisa<s n="vblex"/></r></p></e>
+    <e><p><l>kukomesha<s n="vblex"/></l><r>kolímbisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuboritz<s n="vblex"/></l><r>kongɛnga<s n="vblex"/></r></p></e>
+    <e><p><l>kumeremeta<s n="vblex"/></l><r>kongɛnga<s n="vblex"/></r></p></e>
+    <e><p><l>kutumia<s n="vblex"/></l><r>kobakía<s n="vblex"/></r></p></e>
+    <e><p><l>kupassa<s n="vblex"/></l><r>kokabola<s n="vblex"/></r></p></e>
+    <e><p><l>kuchongea<s n="vblex"/></l><r>kokabola<s n="vblex"/></r></p></e>
+    <e><p><l>kuharibu<s n="vblex"/></l><r>kobéba<s n="vblex"/></r></p></e>
+    <e><p><l>kuvunja<s n="vblex"/></l><r>kobéba<s n="vblex"/></r></p></e>
+    <e><p><l>kuharibika<s n="vblex"/></l><r>kobéba<s n="vblex"/></r></p></e>
+    <e><p><l>kumzaha<s n="vblex"/></l><r>kokúmba<s n="vblex"/></r></p></e>
+    <e><p><l>kufuraha<s n="vblex"/></l><r>kokúmba<s n="vblex"/></r></p></e>
+    <e><p><l>kushikaki<s n="vblex"/></l><r>kokúmba<s n="vblex"/></r></p></e>
+    <e><p><l>kucheka<s n="vblex"/></l><r>kokúmba<s n="vblex"/></r></p></e>
+    <e><p><l>kuchezea<s n="vblex"/></l><r>kokúmba<s n="vblex"/></r></p></e>
+    <e><p><l>kueneza<s n="vblex"/></l><r>kopalangana<s n="vblex"/></r></p></e>
+    <e><p><l>kudawanytka<s n="vblex"/></l><r>kopalangana<s n="vblex"/></r></p></e>
+    <e><p><l>kunyosha<s n="vblex"/></l><r>kopalangana<s n="vblex"/></r></p></e>
+    <e><p><l>kutanda<s n="vblex"/></l><r>kopalangana<s n="vblex"/></r></p></e>
+    <e><p><l>kuupanga<s n="vblex"/></l><r>kozalisa<s n="vblex"/></r></p></e>
+    <e><p><l>kumkuki<s n="vblex"/></l><r>kozalisa<s n="vblex"/></r></p></e>
+    <e><p><l>kukipaku<s n="vblex"/></l><r>kokila<s n="vblex"/></r></p></e>
+    <e><p><l>kusfuka<s n="vblex"/></l><r>kokóma<s n="vblex"/></r></p></e>
+    <e><p><l>kuondoka<s n="vblex"/></l><r>kokóma<s n="vblex"/></r></p></e>
+    <e><p><l>kushikanjia<s n="vblex"/></l><r>kokóma<s n="vblex"/></r></p></e>
+    <e><p><l>kuamsha<s n="vblex"/></l><r>kokóma<s n="vblex"/></r></p></e>
+    <e><p><l>kujongeza<s n="vblex"/></l><r>kokóma<s n="vblex"/></r></p></e>
+    <e><p><l>kuawali<s n="vblex"/></l><r>kokóma<s n="vblex"/></r></p></e>
+    <e><p><l>kukaa<s n="vblex"/></l><r>kotíkala<s n="vblex"/></r></p></e>
+    <e><p><l>kusimama<s n="vblex"/></l><r>kotíkala<s n="vblex"/></r></p></e>
+    <e><p><l>kushinda<s n="vblex"/></l><r>kotíkala<s n="vblex"/></r></p></e>
+    <e><p><l>kusimamisha<s n="vblex"/></l><r>kotíkala<s n="vblex"/></r></p></e>
+    <e><p><l>kunyanganya<s n="vblex"/></l><r>koyíba<s n="vblex"/></r></p></e>
+    <e><p><l>kurungula<s n="vblex"/></l><r>koyíba<s n="vblex"/></r></p></e>
+    <e><p><l>kunyata<s n="vblex"/></l><r>koyíba<s n="vblex"/></r></p></e>
+    <e><p><l>kumyemelea<s n="vblex"/></l><r>koyíba<s n="vblex"/></r></p></e>
+    <e><p><l>kuweka<s n="vblex"/></l><r>kokabela<s n="vblex"/></r></p></e>
+    <e><p><l>kupakia<s n="vblex"/></l><r>kokabela<s n="vblex"/></r></p></e>
+    <e><p><l>kunyosha<s n="vblex"/></l><r>kosémbola<s n="vblex"/></r></p></e>
+    <e><p><l>kuuthizki<s n="vblex"/></l><r>kosémbola<s n="vblex"/></r></p></e>
+    <e><p><l>kunyosha<s n="vblex"/></l><r>kosímbísa<s n="vblex"/></r></p></e>
+    <e><p><l>kufanyabidii<s n="vblex"/></l><r>kosímbísa<s n="vblex"/></r></p></e>
+    <e><p><l>kutegua<s n="vblex"/></l><r>kosímbísa<s n="vblex"/></r></p></e>
+    <e><p><l>kupopotoa<s n="vblex"/></l><r>kosímbísa<s n="vblex"/></r></p></e>
+    <e><p><l>kuvuta<s n="vblex"/></l><r>kosímbísa<s n="vblex"/></r></p></e>
+    <e><p><l>kubidii<s n="vblex"/></l><r>kosímbísa<s n="vblex"/></r></p></e>
+    <e><p><l>kupzga<s n="vblex"/></l><r>kobɛ́ta<s n="vblex"/></r></p></e>
+    <e><p><l>kustusha<s n="vblex"/></l><r>kobɛ́ta<s n="vblex"/></r></p></e>
+    <e><p><l>kushangaza<s n="vblex"/></l><r>kobɛ́ta<s n="vblex"/></r></p></e>
+    <e><p><l>kuchoma<s n="vblex"/></l><r>kobɛ́ta<s n="vblex"/></r></p></e>
+    <e><p><l>kunathan<s n="vblex"/></l><r>kobɛ́ta<s n="vblex"/></r></p></e>
+    <e><p><l>kukifungo<s n="vblex"/></l><r>kotánga<s n="vblex"/></r></p></e>
+    <e><p><l>kupumdbaza<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kutangua<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kufosa<s n="vblex"/></l><r>kolindísa<s n="vblex"/></r></p></e>
+    <e><p><l>kuondoa<s n="vblex"/></l><r>kolongola<s n="vblex"/></r></p></e>
+    <e><p><l>kutwaa<s n="vblex"/></l><r>kolongola<s n="vblex"/></r></p></e>
+    <e><p><l>kufaka<s n="vblex"/></l><r>kobimisa<s n="vblex"/></r></p></e>
+    <e><p><l>kupita<s n="vblex"/></l><r>koleka<s n="vblex"/></r></p></e>
+    <e><p><l>kushinda<s n="vblex"/></l><r>koleka<s n="vblex"/></r></p></e>
+    <e><p><l>kukizushs<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kufumania<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kugundulia<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kusukia<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kushangasa<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kustusha<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kuajabtsha<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kufathaisha<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kuusulu<s n="vblex"/></l><r>kobakía<s n="vblex"/></r></p></e>
+    <e><p><l>kutoa<s n="vblex"/></l><r>kobakía<s n="vblex"/></r></p></e>
+    <e><p><l>kujikatalia<s n="vblex"/></l><r>komɛla<s n="vblex"/></r></p></e>
+    <e><p><l>kufagia<s n="vblex"/></l><r>kokɔ́mba<s n="vblex"/></r></p></e>
+    <e><p><l>kurusha<s n="vblex"/></l><r>kokɔ́mba<s n="vblex"/></r></p></e>
+    <e><p><l>kufuttambali<s n="vblex"/></l><r>kokɔ́mba<s n="vblex"/></r></p></e>
+    <e><p><l>kupangusa<s n="vblex"/></l><r>kokɔ́mba<s n="vblex"/></r></p></e>
+    <e><p><l>kumfuto<s n="vblex"/></l><r>kokɔ́mba<s n="vblex"/></r></p></e>
+    <e><p><l>kuupeo<s n="vblex"/></l><r>kokɔ́mba<s n="vblex"/></r></p></e>
+    <e><p><l>kukumba<s n="vblex"/></l><r>kokɔ́mba<s n="vblex"/></r></p></e>
+    <e><p><l>kuogolea<s n="vblex"/></l><r>konyanya<s n="vblex"/></r></p></e>
+    <e><p><l>kuelea<s n="vblex"/></l><r>konyanya<s n="vblex"/></r></p></e>
+    <e><p><l>kupunja<s n="vblex"/></l><r>kokútínya<s n="vblex"/></r></p></e>
+    <e><p><l>kukopa<s n="vblex"/></l><r>kokútínya<s n="vblex"/></r></p></e>
+    <e><p><l>kudanganya<s n="vblex"/></l><r>kokútínya<s n="vblex"/></r></p></e>
+    <e><p><l>kukaramktia<s n="vblex"/></l><r>kokútínya<s n="vblex"/></r></p></e>
+    <e><p><l>kuukopi<s n="vblex"/></l><r>kokútínya<s n="vblex"/></r></p></e>
+    <e><p><l>kuujanja<s n="vblex"/></l><r>kokútínya<s n="vblex"/></r></p></e>
+    <e><p><l>kuubhalimu<s n="vblex"/></l><r>kokútínya<s n="vblex"/></r></p></e>
+    <e><p><l>kutwaa<s n="vblex"/></l><r>kobɔtɔlɔ<s n="vblex"/></r></p></e>
+    <e><p><l>kushika<s n="vblex"/></l><r>kobɔtɔlɔ<s n="vblex"/></r></p></e>
+    <e><p><l>kumega<s n="vblex"/></l><r>kobɔtɔlɔ<s n="vblex"/></r></p></e>
+    <e><p><l>kunena<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
+    <e><p><l>kusema<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
+    <e><p><l>kujizungumza<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
+    <e><p><l>kusemea<s n="vblex"/></l><r>koloba<s n="vblex"/></r></p></e>
+    <e><p><l>kumaonji<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+    <e><p><l>kuupendo<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+    <e><p><l>kujua<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+    <e><p><l>kuweza<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+    <e><p><l>kukoleka<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+    <e><p><l>kujartbu<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+    <e><p><l>kutongoza<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+    <e><p><l>kuclekea<s n="vblex"/></l><r>kolimba<s n="vblex"/></r></p></e>
+    <e><p><l>kuvutwa<s n="vblex"/></l><r>kolimba<s n="vblex"/></r></p></e>
+    <e><p><l>kulinda<s n="vblex"/></l><r>kolimba<s n="vblex"/></r></p></e>
+    <e><p><l>kusuza<s n="vblex"/></l><r>kosíla<s n="vblex"/></r></p></e>
+    <e><p><l>kukomesha<s n="vblex"/></l><r>kosíla<s n="vblex"/></r></p></e>
+    <e><p><l>kuogofya<s n="vblex"/></l><r>kojikámisá<s n="vblex"/></r></p></e>
+    <e><p><l>kuhofisha<s n="vblex"/></l><r>kojikámisá<s n="vblex"/></r></p></e>
+    <e><p><l>kujaribu<s n="vblex"/></l><r>kotatola<s n="vblex"/></r></p></e>
+    <e><p><l>kujaribia<s n="vblex"/></l><r>kotatola<s n="vblex"/></r></p></e>
+    <e><p><l>kuangalia<s n="vblex"/></l><r>kotatola<s n="vblex"/></r></p></e>
+    <e><p><l>kuchungulia<s n="vblex"/></l><r>kotatola<s n="vblex"/></r></p></e>
+    <e><p><l>kuhakikia<s n="vblex"/></l><r>kotatola<s n="vblex"/></r></p></e>
+    <e><p><l>kualama<s n="vblex"/></l><r>kotatola<s n="vblex"/></r></p></e>
+    <e><p><l>kushuhudia<s n="vblex"/></l><r>kotatola<s n="vblex"/></r></p></e>
+    <e><p><l>kuweakhafifu<s n="vblex"/></l><r>kokanisa<s n="vblex"/></r></p></e>
+    <e><p><l>kupungusa<s n="vblex"/></l><r>kokanisa<s n="vblex"/></r></p></e>
+    <e><p><l>kufikirt<s n="vblex"/></l><r>kokanisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuwaza<s n="vblex"/></l><r>kokanisa<s n="vblex"/></r></p></e>
+    <e><p><l>kukitani<s n="vblex"/></l><r>kotóngola<s n="vblex"/></r></p></e>
+    <e><p><l>kuuzi<s n="vblex"/></l><r>kotóngola<s n="vblex"/></r></p></e>
+    <e><p><l>kukiungo<s n="vblex"/></l><r>kotóngola<s n="vblex"/></r></p></e>
+    <e><p><l>kuatin<s n="vblex"/></l><r>kosɔsɔlɔ<s n="vblex"/></r></p></e>
+    <e><p><l>kukopo<s n="vblex"/></l><r>kosɔsɔlɔ<s n="vblex"/></r></p></e>
+    <e><p><l>kuhkikopo<s n="vblex"/></l><r>kosɔsɔlɔ<s n="vblex"/></r></p></e>
+    <e><p><l>kukelele<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
+    <e><p><l>kuzawadi<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
+    <e><p><l>kuada<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
+    <e><p><l>kupindua<s n="vblex"/></l><r>kolángwa<s n="vblex"/></r></p></e>
+    <e><p><l>kulegesa<s n="vblex"/></l><r>kolɛmbisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuurathi<s n="vblex"/></l><r>kosimba<s n="vblex"/></r></p></e>
+    <e><p><l>kuwastlia<s n="vblex"/></l><r>kosimba<s n="vblex"/></r></p></e>
+    <e><p><l>kufundisha<s n="vblex"/></l><r>kosímbísa<s n="vblex"/></r></p></e>
+    <e><p><l>kulea<s n="vblex"/></l><r>kosímbísa<s n="vblex"/></r></p></e>
+    <e><p><l>kukazi<s n="vblex"/></l><r>kosímbísa<s n="vblex"/></r></p></e>
+    <e><p><l>kunjia<s n="vblex"/></l><r>kosímbísa<s n="vblex"/></r></p></e>
+    <e><p><l>kukanyaga<s n="vblex"/></l><r>koniátá<s n="vblex"/></r></p></e>
+    <e><p><l>kufinyanga<s n="vblex"/></l><r>koniátá<s n="vblex"/></r></p></e>
+    <e><p><l>kupisha<s n="vblex"/></l><r>kopambola<s n="vblex"/></r></p></e>
+    <e><p><l>kuhamisha<s n="vblex"/></l><r>kopambola<s n="vblex"/></r></p></e>
+    <e><p><l>kujongezapangine<s n="vblex"/></l><r>kopambola<s n="vblex"/></r></p></e>
+    <e><p><l>kugeuza<s n="vblex"/></l><r>kopambola<s n="vblex"/></r></p></e>
+    <e><p><l>kukutoa<s n="vblex"/></l><r>kopambola<s n="vblex"/></r></p></e>
+    <e><p><l>kugeuza<s n="vblex"/></l><r>kobóngwinya<s n="vblex"/></r></p></e>
+    <e><p><l>kuhofu<s n="vblex"/></l><r>kokúmba<s n="vblex"/></r></p></e>
+    <e><p><l>kuajabu<s n="vblex"/></l><r>kokúmba<s n="vblex"/></r></p></e>
+    <e><p><l>kusafirisha<s n="vblex"/></l><r>kokúmba<s n="vblex"/></r></p></e>
+    <e><p><l>kuzetema<s n="vblex"/></l><r>kolɛ́nga<s n="vblex"/></r></p></e>
+    <e><p><l>kutetemeka<s n="vblex"/></l><r>kolɛ́nga<s n="vblex"/></r></p></e>
+    <e><p><l>kukwaza<s n="vblex"/></l><r>kopúlola<s n="vblex"/></r></p></e>
+    <e><p><l>kukwamisha<s n="vblex"/></l><r>kopúlola<s n="vblex"/></r></p></e>
+    <e><p><l>kutaabu<s n="vblex"/></l><r>kotungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kumashaka<s n="vblex"/></l><r>kotungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kusumbua<s n="vblex"/></l><r>kotungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kujaribu<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+    <e><p><l>kujaribia<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+    <e><p><l>kujitahidi<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+    <e><p><l>kuangalia<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+    <e><p><l>kutafutia<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+    <e><p><l>kuhoji<s n="vblex"/></l><r>komeka<s n="vblex"/></r></p></e>
+    <e><p><l>kufunua<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
+    <e><p><l>kufahamu<s n="vblex"/></l><r>koyéba<s n="vblex"/></r></p></e>
+    <e><p><l>kutambua<s n="vblex"/></l><r>koyéba<s n="vblex"/></r></p></e>
+    <e><p><l>kusifahamu<s n="vblex"/></l><r>koyéba<s n="vblex"/></r></p></e>
+    <e><p><l>kutangua<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
+    <e><p><l>kufundua<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
+    <e><p><l>kufunua<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
+    <e><p><l>kufungua<s n="vblex"/></l><r>kokundola<s n="vblex"/></r></p></e>
+    <e><p><l>kufungua<s n="vblex"/></l><r>kotóngola<s n="vblex"/></r></p></e>
+    <e><p><l>kuzoea<s n="vblex"/></l><r>kotia<s n="vblex"/></r></p></e>
+    <e><p><l>kusttastia<s n="vblex"/></l><r>konyíngána<s n="vblex"/></r></p></e>
+    <e><p><l>kutangatanga<s n="vblex"/></l><r>konyíngána<s n="vblex"/></r></p></e>
+    <e><p><l>kubadilibadsli<s n="vblex"/></l><r>konyíngána<s n="vblex"/></r></p></e>
+    <e><p><l>kukiasi<s n="vblex"/></l><r>komotúya<s n="vblex"/></r></p></e>
+    <e><p><l>kukadiri<s n="vblex"/></l><r>komotúya<s n="vblex"/></r></p></e>
+    <e><p><l>kuupataji<s n="vblex"/></l><r>komotúya<s n="vblex"/></r></p></e>
+    <e><p><l>kutunuka<s n="vblex"/></l><r>komotúya<s n="vblex"/></r></p></e>
+    <e><p><l>kujivuna<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kujisifu<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuzoa<s n="vblex"/></l><r>kokɛla<s n="vblex"/></r></p></e>
+    <e><p><l>kudanganya<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kuthalimu<s n="vblex"/></l><r>kobungisa<s n="vblex"/></r></p></e>
+    <e><p><l>kungoja<s n="vblex"/></l><r>kozela<s n="vblex"/></r></p></e>
+    <e><p><l>kuzaka<s n="vblex"/></l><r>kolinga<s n="vblex"/></r></p></e>
+    <e><p><l>kuchemchems<s n="vblex"/></l><r>kozala<s n="vblex"/></r></p></e>
+    <e><p><l>kuzungusha<s n="vblex"/></l><r>kojelinginya<s n="vblex"/></r></p></e>
+    <e><p><l>kupata<s n="vblex"/></l><r>kokútínya<s n="vblex"/></r></p></e>
+    <e><p><l>kushawishi<s n="vblex"/></l><r>kokútínya<s n="vblex"/></r></p></e>
+    <e><p><l>kukunja<s n="vblex"/></l><r>kokútínya<s n="vblex"/></r></p></e>
+    <e><p><l>kupinda<s n="vblex"/></l><r>kokútínya<s n="vblex"/></r></p></e>
+    <e><p><l>kukunja<s n="vblex"/></l><r>kokútínya<s n="vblex"/></r></p></e>
+    <e><p><l>kumeungu<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kumwujiza<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kustaajabu<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kushangaa<s n="vblex"/></l><r>kokamwa<s n="vblex"/></r></p></e>
+    <e><p><l>kutaabu<s n="vblex"/></l><r>kolemwa<s n="vblex"/></r></p></e>
+    <e><p><l>kuharaka<s n="vblex"/></l><r>kolemwa<s n="vblex"/></r></p></e>
+    <e><p><l>kusumbua<s n="vblex"/></l><r>kolemwa<s n="vblex"/></r></p></e>
+    <e><p><l>kuchokozsa<s n="vblex"/></l><r>kolemwa<s n="vblex"/></r></p></e>
+    <e><p><l>kuharakisha<s n="vblex"/></l><r>kolemwa<s n="vblex"/></r></p></e>
+    <e><p><l>kujeseembua<s n="vblex"/></l><r>kolemwa<s n="vblex"/></r></p></e>
+    <e><p><l>kugombana<s n="vblex"/></l><r>koswána<s n="vblex"/></r></p></e>
+    <e><p><l>kumyonga<s n="vblex"/></l><r>kokwakola<s n="vblex"/></r></p></e>
+    <e><p><l>kusonjoa<s n="vblex"/></l><r>kokwakola<s n="vblex"/></r></p></e>
+    <e><p><l>kupopotoa<s n="vblex"/></l><r>kokwakola<s n="vblex"/></r></p></e>
+
+
+   
     <!-- Adverbs -->
 
     <!-- Adjectives -->
@@ -162,14 +1555,40 @@
     <e><p><l>nyembamba<s n="adj"/><s n="sint"/></l><r>mokɛ́<s n="adj"/></r></p></e>
     <e><p><l>fupi<s n="adj"/><s n="sint"/></l><r>mokúsé<s n="adj"/></r></p></e>
     <e><p><l>ndefu<s n="adj"/><s n="sint"/></l><r>molaí<s n="adj"/></r></p></e>
-    <e><p><l>mrefu<s n="adj"/><s n="sint"/></l><r>molaí<s n="adj"/></r></p></e>   
+    <e><p><l>mrefu<s n="adj"/><s n="sint"/></l><r>molaí<s n="adj"/></r></p></e>
+
+    <e><p><l>zuri<s n="adj"/></l><r>malámu<s n="adj"/></r></p></e>
+    <e><p><l>zuri<s n="adj"/></l><r>kitóko<s n="adj"/></r></p></e>
+    <e><p><l>baya<s n="adj"/></l><r>mabé<s n="adj"/></r></p></e>
+    <e><p><l>dogo<s n="adj"/></l><r>mwá<s n="adj"/></r></p></e>
+    <e><p><l>chache<s n="adj"/></l><r>mwá<s n="adj"/></r></p></e>
+    <e><p><l>fupi<s n="adj"/></l><r>bokúsé<s n="adj"/></r></p></e>
+    <e><p><l>zee<s n="adj"/></l><r>kala<s n="adj"/></r></p></e>
+    <e><p><l>pya<s n="adj"/></l><r>sika<s n="adj"/></r></p></e>
+    <e><p><l>safi<s n="adj"/></l><r>petwa<s n="adj"/></r></p></e>
+    <e><p><l>baridi<s n="adj"/></l><r>malílí<s n="adj"/></r></p></e>
 
     <!-- Prepositions -->
 
     <!-- Conjunctions -->
 
 
-    <!-- Connectives -->   
+    <!-- Connectives -->
+
+    <!-- Numerals -->
+    
+    <e><p><l>moja<s n="num"/></l><r>mókó<s n="num"/></r></p></e>
+    <e><p><l>mbili<s n="num"/></l><r>míbalé<s n="num"/></r></p></e>
+    <e><p><l>tatu<s n="num"/></l><r>mísáto<s n="num"/></r></p></e>
+    <e><p><l>nne<s n="num"/></l><r>mínei<s n="num"/></r></p></e>
+    <e><p><l>tano<s n="num"/></l><r>mítáno<s n="num"/></r></p></e>
+    <e><p><l>sita<s n="num"/></l><r>motóbá<s n="num"/></r></p></e>
+    <e><p><l>saba<s n="num"/></l><r>sambo<s n="num"/></r></p></e>
+    <e><p><l>nane<s n="num"/></l><r>mwambe<s n="num"/></r></p></e>
+    <e><p><l>tisa<s n="num"/></l><r>libwá<s n="num"/></r></p></e>
+    <e><p><l>kumi<s n="num"/></l><r>zómi<s n="num"/></r></p></e>
+    <e><p><l>mia<s n="num"/></l><r>kámá<s n="num"/></r></p></e>
+    <e><p><l>elfu<s n="num"/></l><r>nkóto<s n="num"/></r></p></e>
 
     
     <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
